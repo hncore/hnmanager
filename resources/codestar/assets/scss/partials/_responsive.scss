@@ -1,0 +1,157 @@
+/**
+ * 12. Responsive
+ */
+@media only screen and (max-width:1200px){
+
+  .hcf-metabox{
+
+    .hcf-field{
+
+      .hcf-title{
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+      }
+
+      .hcf-fieldset{
+        float: none;
+        width: 100%;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width:782px){
+
+  .hcf-header-inner{
+    text-align: center;
+
+    h1{
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+
+  .hcf-form-result{
+    float: none;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+
+  .hcf-search,
+  .hcf-header-right,
+  .hcf-header-left{
+    width: 100%;
+  }
+
+  .hcf-search{
+    text-align: center;
+    margin-bottom: 15px;
+  }
+
+  .hcf-footer{
+    text-align: center;
+  }
+
+  .hcf-buttons{
+    float: none;
+  }
+
+  .hcf-copyright{
+    float: none;
+    margin-top: 10px;
+  }
+
+  .hcf-nav,
+  .hcf-expand-all,
+  .hcf-reset-section,
+  .hcf-nav-background{
+    display: none !important;
+  }
+
+  .hcf-nav-normal + .hcf-content{
+    margin-left: 0;
+  }
+
+  .hcf-section-title,
+  .hcf-section{
+    display: block !important;
+  }
+
+  .hcf-field{
+
+    .hcf-title{
+      float: none;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+
+    .hcf-fieldset{
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .hcf-field-color{
+
+    .button.wp-picker-clear{
+      padding: 0 8px;
+      line-height: 2.14285714;
+      min-height: 32px;
+    }
+  }
+
+  .hcf-profile-options,
+  .hcf-taxonomy-edit-fields{
+
+    > .hcf-field{
+
+      > .hcf-title{
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+      }
+
+      > .hcf-fieldset{
+        float: none;
+        width: 100%;
+      }
+    }
+  }
+
+  .hcf-nav-menu-options{
+
+    > .hcf-fields{
+      margin-left: -10px;
+      margin-right: -10px;
+
+      > .hcf-field{
+        padding: 10px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 782px) {
+
+  .hcf-modal{
+
+    .hcf-modal-inner{
+      width: 90%;
+    }
+  }
+}
+
+@media only screen and (max-height: 750px) {
+
+  .hcf-modal{
+
+    .hcf-modal-inner{
+      height: auto;
+    }
+
+    .hcf-modal-content{
+      height: calc(100vh - 200px);
+    }
+  }
+}

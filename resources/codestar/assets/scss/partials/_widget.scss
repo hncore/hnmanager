@@ -1,0 +1,67 @@
+/**
+ * 04. Widget
+ */
+.hcf-widgets{
+
+  > .hcf-field{
+    position: relative;
+    top: -1px;
+    margin-left: -15px;
+    margin-right: -15px;
+    padding: 12px 15px;
+
+    .hcf-title{
+      float: none;
+      width: 100%;
+      margin-bottom: 5px;
+    }
+
+    .hcf-fieldset{
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .hcf-field-text input{
+    width: 100%;
+  }
+
+  .hcf-field-notice .hcf-notice{
+    padding: 15px;
+  }
+}
+
+.control-section{
+
+  .hcf-widgets{
+
+    > .hcf-field{
+      margin-left: -10px;
+      margin-right: -10px;
+      padding: 10px 12px;
+    }
+  }
+}
+
+.wp-block{
+
+  .hcf-widgets{
+    font-size: 13px;
+
+    > .hcf-field{
+      margin-left: -10px;
+      margin-right: -10px;
+
+      .button-primary{
+        color: #fff;
+      }
+
+      > .hcf-title{
+
+        > h4{
+          font-size: 13px;
+        }
+      }
+    }
+  }
+}

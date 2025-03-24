@@ -1,0 +1,241 @@
+.haun-wrap {
+    margin: 10px 20px 0 2px;
+}
+
+.toplevel_page_haun-license-manager .haun-wrap {
+    margin: 20px 20px 0 2px;
+    overflow: hidden;
+    display: block;
+}
+
+.haun-license-details, #haun-check-update, .license-wrap {
+    background: #fff;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    margin-top: -1px;
+    overflow: hidden;
+}
+
+.haun-license-details h1 {
+    padding: 0 0 10px;
+    border-bottom: 1px solid #eaeaea;
+    color: #848484;
+    font-size: 15px;
+    font-weight: 600;
+}
+.haun-license-details h1 span {
+    font-size: 25px;
+}
+.haun-license-details h1 > span {
+    color: #f68e02;
+    font-weight: 700;
+}
+.haun-license-details h1 > span + span {
+    color: #1f1f1f;
+}
+
+.haun-license-details p {
+    color: #969696;
+    margin: 10px 0;
+}
+
+.haun-license-details .license-box-action {
+    overflow: hidden;
+    padding: 15px 6px;
+    margin: 10px 0 15px 0;
+}
+
+
+.haun-license-details .license-details-box {
+    overflow: hidden;
+    border-bottom: 1px solid #f1f1f1;
+}
+@media screen and (min-width: 1200px) {
+    .haun-license-details .license-details-box .license-details {
+        width: 60%;
+    }
+    .toplevel_page_haun-license-manager .wrap {
+        width: 50%;
+    }
+}
+
+
+@media screen and (max-width: 767px) {
+
+    .haun-license-details .license-details-box .license-details {
+        width: 100%;
+    }
+}
+
+.haun-license-details .license-details-box .license-details li {
+    margin-bottom: 15px;
+}
+
+.haun-license-details .license-details-box .license-details li span {}
+.update-license-btn, .activate-license-btn {
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+    background-size: 300% 100%;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    cursor: pointer;
+    padding: 5px 15px;
+    color: #fff;
+    background-image: -webkit-linear-gradient(left, #25aae1, #024fd6, #04befe, #3f86ed);
+    background-image: -o-linear-gradient(left, #25aae1, #024fd6, #04befe, #3f86ed);
+    background-image: linear-gradient(to right, #25aae1, #024fd6, #04befe, #3f86ed);
+    box-shadow: 1px 2px 7px 0 rgba(65, 132, 234, 0.75);
+    margin-right: 15px;
+}
+.update-license-btn:hover, .activate-license-btn:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+.haun-license-details .license-details-box .license-details li .activate-license-btn i {
+    font-size: 17px;
+}
+.haun-license-details .license-details-box .license-details li span:first-child {
+    font-weight: 700;
+    margin-right: 5px;
+    width: 25%;
+    display: inline-block;
+}
+.haun-license-details .license-details-box .license-details li span.license_key {
+    font-weight: 600;
+    color: #797979;
+}
+.haun-license-details .license-details-box .license-details li span.license_key span.license-type {
+    font-weight: normal;
+    display: initial;
+    color: #3b5977;
+    font-size: 12px;
+}
+.haun-license-details .license-details-box .license-details li span.license_status {
+    margin-left: -7px;
+    color: #5ec320;
+    font-weight: 600;
+}
+.haun-license-details .license-details-box .license-details li span.license_status.license_invalid {
+    color: #f75555;
+}
+
+.haun-license-details .license-details-box .license-details li span .dashicons.dashicons-yes-alt {
+    color: #5ec320;
+    margin-right: 3px;
+}
+
+.haun-license-details .license-details-box .license-details li span .dashicons.dashicons-dismiss {
+    margin-right: 3px;
+}
+
+.license-btn {
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+    margin: 20px 0;
+    background-size: 300% 100%;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+    cursor: pointer;
+    padding: 10px 30px;
+    display: inline-block;
+    color: #fff;
+    font-weight: bold;
+}
+.license-btn.btn-warning {
+    background-image: -webkit-linear-gradient(left, #ffbb00, #e43603, #ff6290, #ff5000);
+    background-image: -o-linear-gradient(left, #ffbb00, #e43603, #ff6290, #ff5000);
+    background-image: linear-gradient(to right, #ffbb00, #e43603, #ff6290, #ff5000);
+    box-shadow: 0 4px 15px 0 rgba(229, 66, 10, 0.75);
+}
+
+
+
+.license-btn.btn-success {
+    background-image: -webkit-linear-gradient(left, #009245, #d0c200, #00A8C5, #D9E021);
+    background-image: -o-linear-gradient(left, #009245, #d0c200, #00A8C5, #D9E021);
+    background-image: linear-gradient(to right, #2cb100, #cce214, #338e0d, #e2e83a);
+    box-shadow: 0 4px 15px 0 rgba(83, 176, 57, 0.75);
+}
+
+.license-btn.btn-active {
+    background-image: -webkit-linear-gradient(left, #25aae1, #024fd6, #04befe, #3f86ed);
+    background-image: -o-linear-gradient(left, #25aae1, #024fd6, #04befe, #3f86ed);
+    background-image: linear-gradient(to right, #25aae1, #024fd6, #04befe, #3f86ed);
+    box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+}
+
+.license-btn:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.license-wrap p label {
+    padding: 3px;
+    margin-right: 10px;
+    display: block;
+}
+
+
+@media screen and (max-width: 767px){
+    #haun_deactivate_box, #haun_check_update_box {
+        width: 100%;
+        float: unset;
+    }
+}
+
+.haun-tabbed-nav {
+    display: inline-flex;
+}
+
+.haun-tabbed-nav-item {
+    background: #f1f1f1;
+    padding: 10px 15px;
+    border: 1px solid #e0e0e0;
+    margin-right: -1px;
+}
+.haun-tabbed-nav-item.active {
+    background: #fff;
+    border: 1px solid #e0e0e0;
+    border-bottom: none;
+}
+.haun-tabbed-nav-item a {
+    text-decoration: none;
+    font-weight: 600;
+}
+.notice.notice-success.notice-plugin.is-dismissible {
+    border-left-color: #ff5a4f;
+    color: #ff4242;
+}
+
+#deactivate-status, #activate-status {
+    color: #ff0d0d;
+    font-weight: 700;
+    font-family: monospace;
+    display: none;
+    margin-top: 20px;
+}
+#activate-license-box, #haun_deactivate_box {
+    background: #fff;
+    margin-top: 15px;
+}
+#activate-license-box p label {
+    display: block;
+    font-family: monospace;
+}
+
+#activate-license-box p input {
+    font-family: monospace;
+    border: 1px solid #d2d2d2;
+}

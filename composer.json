@@ -1,0 +1,33 @@
+{
+    "name": "hncore/hnmanager",
+    "type": "wordpress-package",
+    "description": "Manager",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "HauN",
+            "email": "haunytb@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HAUN\\": "src/"
+        },
+		"files": [
+            "src/Options/AutoLoad.php"
+        ]
+
+    },
+    "extra": {
+        "acorn": {
+            "providers": [
+                "HAUN\\HNManager"
+            ]
+        }
+    },
+    "config": {
+        "optimize-autoloader": false,
+        "classmap-authoritative": false
+    }
+}

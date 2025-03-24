@@ -1,0 +1,114 @@
+/**
+ * 06. Taxonomy
+ */
+.hcf-taxonomy{
+  max-width: 95%;
+
+  > .hcf-field{
+    border-top: none !important;
+  }
+
+  > .hcf-field-heading{
+    font-size: 1.1em;
+    padding: 20px !important;
+    border: 1px solid #ddd;
+  }
+
+  > .hcf-field-subheading{
+    font-size: 12px;
+    padding: 15px !important;
+    border: 1px solid #ddd;
+  }
+
+  > .hcf-field-submessage{
+
+    .hcf-submessage{
+      padding: 15px;
+      border-left-width: 1px;
+      border-left-style: solid;
+      border-right-width: 1px;
+      border-right-style: solid;
+    }
+  }
+
+  > .hcf-field-notice{
+    background-color: transparent;
+  }
+
+  .hcf-section-title{
+    display: block;
+    padding: 15px ;
+    background-color: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.04);
+  }
+}
+
+.hcf-taxonomy-add-fields{
+
+  > .hcf-field{
+    padding: 8px 0;
+
+    > .hcf-title{
+      float: none;
+      width: 100%;
+      padding: 2px 2px 4px 0;
+
+      h4{
+        font-size: 12px;
+        font-weight: normal;
+      }
+    }
+
+    > .hcf-fieldset{
+      float: none;
+      width: 100%;
+
+      > .hcf-help{
+        right: -5px;
+      }
+    }
+  }
+
+  + p.submit{
+    margin-top: 0;
+  }
+}
+
+.hcf-taxonomy-edit-fields{
+
+  > .hcf-field{
+    padding: 20px 0;
+
+    > .hcf-title{
+      width: 200px;
+
+      h4{
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 1.3;
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
+
+    > .hcf-fieldset{
+      width: calc(100% - 220px);
+
+      > .hcf-help{
+        top: -5px;
+        right: -5px;
+      }
+    }
+  }
+
+  > .hcf-field-submessage{
+    margin: 20px 0;
+  }
+
+  > .hcf-field-subheading,
+  > .hcf-field-heading{
+    margin: 20px 0;
+    border: 1px solid #ddd;
+  }
+}

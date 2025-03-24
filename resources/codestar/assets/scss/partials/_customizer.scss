@@ -1,0 +1,185 @@
+/**
+ * 05. Widget
+ */
+.control-section{
+
+  .hcf-field{
+    padding: 0;
+
+    .hcf-title{
+      float: none;
+      width: 100%;
+      margin-bottom: 6px;
+
+      h4{
+        display: block;
+        font-size: 13px;
+        line-height: 1;
+        font-weight: 600;
+        color: inherit;
+      }
+    }
+
+    .hcf-fieldset{
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .hcf-help{
+    top: -5px;
+    right: -5px;
+  }
+
+  .hcf-field-select select{
+    width: 100%;
+  }
+
+  .hcf-field-heading{
+    color: inherit;
+    font-size: 14px;
+    line-height: 1em;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 15px;
+  }
+
+  .hcf-field-subheading{
+    color: inherit;
+    font-size: 11px;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 10px 15px;
+  }
+
+  .hcf-subtitle-text{
+    margin-top: 4px;
+    font-size: 12px;
+  }
+
+  .hcf-field-submessage .hcf-submessage{
+    margin-right: -15px;
+    margin-left: -15px;
+    padding: 15px;
+  }
+
+  .hcf-fieldset{
+
+    .hcf-field-submessage .hcf-submessage,
+    .hcf-field-heading,
+    .hcf-field-subheading{
+      margin-left: 0;
+      margin-right: 0;
+    }
+  }
+
+  .hcf-field-date,
+  .hcf-field-datetime{
+
+    label{
+      display: block;
+    }
+
+    .hcf--to{
+      margin-top: 4px;
+      margin-left: 0;
+    }
+  }
+
+  .hcf-field-sorter{
+
+    ul li{
+      padding: 5px;
+    }
+
+    .hcf-modules{
+      float: none;
+      width: 100%;
+    }
+
+    .hcf-modules:first-child{
+      padding-right: 0;
+      padding-bottom: 15px;
+    }
+  }
+
+  .hcf-field-background{
+
+    .hcf--background-attributes{
+      flex-direction: column;
+    }
+  }
+
+  .hcf-field-spacing{
+    input{
+      width: 90px;
+    }
+  }
+
+  .hcf-field-border{
+
+    .hcf--input{
+      flex: 1 50%;
+    }
+
+    input,
+    select{
+      width: 100%;
+    }
+  }
+
+  .hcf-field-spinner{
+    input{
+      width: 50px;
+    }
+  }
+
+  .hcf-field-number{
+
+    .hcf--wrap{
+      width: 100%;
+    }
+  }
+
+  .hcf-field-backup{
+
+    .hcf-export-data{
+      display: none;
+    }
+  }
+
+  .hcf-field-fieldset{
+
+    .hcf-fieldset-content{
+      border-color: #e5e5e5;
+    }
+  }
+
+  .hcf-tabbed-content,
+  .hcf-sortable-content,
+  .hcf-repeater-content,
+  .hcf-fieldset-content,
+  .hcf-cloneable-content,
+  .hcf-accordion-content{
+
+    > .hcf-field{
+      padding: 10px;
+
+      .hcf-title{
+        margin-bottom: 5px;
+      }
+
+      h4{
+        font-size: 12px;
+      }
+    }
+  }
+
+  .hcf-depend-hidden.hcf-depend-on{
+    display: none !important;
+  }
+
+  .hcf-depend-visible.hcf-depend-on{
+    border-top: 0 !important;
+  }
+}
