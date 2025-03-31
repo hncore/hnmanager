@@ -18,7 +18,7 @@ if ( ! function_exists( 'hcf_get_icons' ) ) {
 
     ob_start();
 
-    $icon_library = ( apply_filters( 'hcf_fa4', false ) ) ? 'fa4' : 'fa6';
+    $icon_library = ( apply_filters( 'hcf_fa4', false ) ) ? 'fa4' : 'fa5';
 
     HCF::include_plugin_file( 'fields/icon/'. $icon_library .'-icons.php' );
 
