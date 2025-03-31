@@ -1,389 +1,544 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: typography
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_typography' ) ) {
+  class HCF_Field_typography extends HCF_Fields {
+
+    public $chosen = false;
+
+    public $value  = array();
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      echo $this->field_before();
+
+      $args                  = wp_parse_args( $this->field, array(
+        'font_family'        => true,
+        'font_weight'        => true,
+        'font_style'         => true,
+        'font_size'          => true,
+        'line_height'        => true,
+        'letter_spacing'     => true,
+        'text_align'         => true,
+        'text_transform'     => true,
+        'color'              => true,
+        'chosen'             => true,
+        'preview'            => true,
+        'subset'             => true,
+        'multi_subset'       => false,
+        'extra_styles'       => false,
+        'backup_font_family' => false,
+        'font_variant'       => false,
+        'word_spacing'       => false,
+        'text_decoration'    => false,
+        'custom_style'       => false,
+        'compact'            => false,
+        'exclude'            => '',
+        'unit'               => 'px',
+        'line_height_unit'   => '',
+        'preview_text'       => 'The quick brown fox jumps over the lazy dog',
+      ) );
+
+      if ( $args['compact'] ) {
+        $args['text_transform'] = false;
+        $args['text_align']     = false;
+        $args['font_size']      = false;
+        $args['line_height']    = false;
+        $args['letter_spacing'] = false;
+        $args['preview']        = false;
+        $args['color']          = false;
+      }
+
+      $default_value         = array(
+        'font-family'        => '',
+        'font-weight'        => '',
+        'font-style'         => '',
+        'font-variant'       => '',
+        'font-size'          => '',
+        'line-height'        => '',
+        'letter-spacing'     => '',
+        'word-spacing'       => '',
+        'text-align'         => '',
+        'text-transform'     => '',
+        'text-decoration'    => '',
+        'backup-font-family' => '',
+        'color'              => '',
+        'custom-style'       => '',
+        'type'               => '',
+        'subset'             => '',
+        'extra-styles'       => array(),
+      );
+
+      $default_value    = ( ! empty( $this->field['default'] ) ) ? wp_parse_args( $this->field['default'], $default_value ) : $default_value;
+      $this->value      = wp_parse_args( $this->value, $default_value );
+      $this->chosen     = $args['chosen'];
+      $chosen_class     = ( $this->chosen ) ? ' hcf--chosen' : '';
+      $line_height_unit = ( ! empty( $args['line_height_unit'] ) ) ? $args['line_height_unit'] : $args['unit'];
+
+      echo '<div class="hcf--typography'. esc_attr( $chosen_class ) .'" data-depend-id="'. esc_attr( $this->field['id'] ) .'" data-unit="'. esc_attr( $args['unit'] ) .'" data-line-height-unit="'. esc_attr( $line_height_unit ) .'" data-exclude="'. esc_attr( $args['exclude'] ) .'">';
+
+        echo '<div class="hcf--blocks hcf--blocks-selects">';
+
+          //
+          // Font Family
+          if ( ! empty( $args['font_family'] ) ) {
+            echo '<div class="hcf--block">';
+            echo '<div class="hcf--title">'. esc_html__( 'Font Family', 'hcf' ) .'</div>';
+            echo $this->create_select( array( $this->value['font-family'] => $this->value['font-family'] ), 'font-family', esc_html__( 'Select a font', 'hcf' ) );
+            echo '</div>';
+          }
+
+          //
+          // Backup Font Family
+          if ( ! empty( $args['backup_font_family'] ) ) {
+            echo '<div class="hcf--block hcf--block-backup-font-family hidden">';
+            echo '<div class="hcf--title">'. esc_html__( 'Backup Font Family', 'hcf' ) .'</div>';
+            echo $this->create_select( apply_filters( 'hcf_field_typography_backup_font_family', array(
+              'Arial, Helvetica, sans-serif',
+              "'Arial Black', Gadget, sans-serif",
+              "'Comic Sans MS', cursive, sans-serif",
+              'Impact, Charcoal, sans-serif',
+              "'Lucida Sans Unicode', 'Lucida Grande', sans-serif",
+              'Tahoma, Geneva, sans-serif',
+              "'Trebuchet MS', Helvetica, sans-serif'",
+              'Verdana, Geneva, sans-serif',
+              "'Courier New', Courier, monospace",
+              "'Lucida Console', Monaco, monospace",
+              'Georgia, serif',
+              'Palatino Linotype'
+            ) ), 'backup-font-family', esc_html__( 'Default', 'hcf' ) );
+            echo '</div>';
+          }
+
+          //
+          // Font Style and Extra Style Select
+          if ( ! empty( $args['font_weight'] ) || ! empty( $args['font_style'] ) ) {
+
+            //
+            // Font Style Select
+            echo '<div class="hcf--block hcf--block-font-style hidden">';
+            echo '<div class="hcf--title">'. esc_html__( 'Font Style', 'hcf') .'</div>';
+            echo '<select class="hcf--font-style-select" data-placeholder="Default">';
+            echo '<option value="">'. ( ! $this->chosen ? esc_html__( 'Default', 'hcf' ) : '' ) .'</option>';
+            if ( ! empty( $this->value['font-weight'] ) || ! empty( $this->value['font-style'] ) ) {
+              echo '<option value="'. esc_attr( strtolower( $this->value['font-weight'] . $this->value['font-style'] ) ) .'" selected></option>';
+            }
+            echo '</select>';
+            echo '<input type="hidden" name="'. esc_attr( $this->field_name( '[font-weight]' ) ) .'" class="hcf--font-weight" value="'. esc_attr( $this->value['font-weight'] ) .'" />';
+            echo '<input type="hidden" name="'. esc_attr( $this->field_name( '[font-style]' ) ) .'" class="hcf--font-style" value="'. esc_attr( $this->value['font-style'] ) .'" />';
+
+            //
+            // Extra Font Style Select
+            if ( ! empty( $args['extra_styles'] ) ) {
+              echo '<div class="hcf--block-extra-styles hidden">';
+              echo ( ! $this->chosen ) ? '<div class="hcf--title">'. esc_html__( 'Load Extra Styles', 'hcf' ) .'</div>' : '';
+              $placeholder = ( $this->chosen ) ? esc_html__( 'Load Extra Styles', 'hcf' ) : esc_html__( 'Default', 'hcf' );
+              echo $this->create_select( $this->value['extra-styles'], 'extra-styles', $placeholder, true );
+              echo '</div>';
+            }
+
+            echo '</div>';
+
+          }
+
+          //
+          // Subset
+          if ( ! empty( $args['subset'] ) ) {
+            echo '<div class="hcf--block hcf--block-subset hidden">';
+            echo '<div class="hcf--title">'. esc_html__( 'Subset', 'hcf' ) .'</div>';
+            $subset = ( is_array( $this->value['subset'] ) ) ? $this->value['subset'] : array_filter( (array) $this->value['subset'] );
+            echo $this->create_select( $subset, 'subset', esc_html__( 'Default', 'hcf' ), $args['multi_subset'] );
+            echo '</div>';
+          }
+
+          //
+          // Text Align
+          if ( ! empty( $args['text_align'] ) ) {
+            echo '<div class="hcf--block">';
+            echo '<div class="hcf--title">'. esc_html__( 'Text Align', 'hcf' ) .'</div>';
+            echo $this->create_select( array(
+              'inherit' => esc_html__( 'Inherit', 'hcf' ),
+              'left'    => esc_html__( 'Left', 'hcf' ),
+              'center'  => esc_html__( 'Center', 'hcf' ),
+              'right'   => esc_html__( 'Right', 'hcf' ),
+              'justify' => esc_html__( 'Justify', 'hcf' ),
+              'initial' => esc_html__( 'Initial', 'hcf' )
+            ), 'text-align', esc_html__( 'Default', 'hcf' ) );
+            echo '</div>';
+          }
+
+          //
+          // Font Variant
+          if ( ! empty( $args['font_variant'] ) ) {
+            echo '<div class="hcf--block">';
+            echo '<div class="hcf--title">'. esc_html__( 'Font Variant', 'hcf' ) .'</div>';
+            echo $this->create_select( array(
+              'normal'         => esc_html__( 'Normal', 'hcf' ),
+              'small-caps'     => esc_html__( 'Small Caps', 'hcf' ),
+              'all-small-caps' => esc_html__( 'All Small Caps', 'hcf' )
+            ), 'font-variant', esc_html__( 'Default', 'hcf' ) );
+            echo '</div>';
+          }
+
+          //
+          // Text Transform
+          if ( ! empty( $args['text_transform'] ) ) {
+            echo '<div class="hcf--block">';
+            echo '<div class="hcf--title">'. esc_html__( 'Text Transform', 'hcf' ) .'</div>';
+            echo $this->create_select( array(
+              'none'       => esc_html__( 'None', 'hcf' ),
+              'capitalize' => esc_html__( 'Capitalize', 'hcf' ),
+              'uppercase'  => esc_html__( 'Uppercase', 'hcf' ),
+              'lowercase'  => esc_html__( 'Lowercase', 'hcf' )
+            ), 'text-transform', esc_html__( 'Default', 'hcf' ) );
+            echo '</div>';
+          }
+
+          //
+          // Text Decoration
+          if ( ! empty( $args['text_decoration'] ) ) {
+            echo '<div class="hcf--block">';
+            echo '<div class="hcf--title">'. esc_html__( 'Text Decoration', 'hcf' ) .'</div>';
+            echo $this->create_select( array(
+              'none'               => esc_html__( 'None', 'hcf' ),
+              'underline'          => esc_html__( 'Solid', 'hcf' ),
+              'underline double'   => esc_html__( 'Double', 'hcf' ),
+              'underline dotted'   => esc_html__( 'Dotted', 'hcf' ),
+              'underline dashed'   => esc_html__( 'Dashed', 'hcf' ),
+              'underline wavy'     => esc_html__( 'Wavy', 'hcf' ),
+              'underline overline' => esc_html__( 'Overline', 'hcf' ),
+              'line-through'       => esc_html__( 'Line-through', 'hcf' )
+            ), 'text-decoration', esc_html__( 'Default', 'hcf' ) );
+            echo '</div>';
+          }
+
+        echo '</div>';
+
+        echo '<div class="hcf--blocks hcf--blocks-inputs">';
+
+          //
+          // Font Size
+          if ( ! empty( $args['font_size'] ) ) {
+            echo '<div class="hcf--block">';
+            echo '<div class="hcf--title">'. esc_html__( 'Font Size', 'hcf' ) .'</div>';
+            echo '<div class="hcf--input-wrap">';
+            echo '<input type="number" name="'. esc_attr( $this->field_name( '[font-size]' ) ) .'" class="hcf--font-size hcf--input hcf-input-number" value="'. esc_attr( $this->value['font-size'] ) .'" step="any" />';
+            echo '<span class="hcf--unit">'. esc_attr( $args['unit'] ) .'</span>';
+            echo '</div>';
+            echo '</div>';
+          }
+
+          //
+          // Line Height
+          if ( ! empty( $args['line_height'] ) ) {
+            echo '<div class="hcf--block">';
+            echo '<div class="hcf--title">'. esc_html__( 'Line Height', 'hcf' ) .'</div>';
+            echo '<div class="hcf--input-wrap">';
+            echo '<input type="number" name="'. esc_attr( $this->field_name( '[line-height]' ) ) .'" class="hcf--line-height hcf--input hcf-input-number" value="'. esc_attr( $this->value['line-height'] ) .'" step="any" />';
+            echo '<span class="hcf--unit">'. esc_attr( $line_height_unit ) .'</span>';
+            echo '</div>';
+            echo '</div>';
+          }
+
+          //
+          // Letter Spacing
+          if ( ! empty( $args['letter_spacing'] ) ) {
+            echo '<div class="hcf--block">';
+            echo '<div class="hcf--title">'. esc_html__( 'Letter Spacing', 'hcf' ) .'</div>';
+            echo '<div class="hcf--input-wrap">';
+            echo '<input type="number" name="'. esc_attr( $this->field_name( '[letter-spacing]' ) ) .'" class="hcf--letter-spacing hcf--input hcf-input-number" value="'. esc_attr( $this->value['letter-spacing'] ) .'" step="any" />';
+            echo '<span class="hcf--unit">'. esc_attr( $args['unit'] ) .'</span>';
+            echo '</div>';
+            echo '</div>';
+          }
+
+          //
+          // Word Spacing
+          if ( ! empty( $args['word_spacing'] ) ) {
+            echo '<div class="hcf--block">';
+            echo '<div class="hcf--title">'. esc_html__( 'Word Spacing', 'hcf' ) .'</div>';
+            echo '<div class="hcf--input-wrap">';
+            echo '<input type="number" name="'. esc_attr( $this->field_name( '[word-spacing]' ) ) .'" class="hcf--word-spacing hcf--input hcf-input-number" value="'. esc_attr( $this->value['word-spacing'] ) .'" step="any" />';
+            echo '<span class="hcf--unit">'. esc_attr( $args['unit'] ) .'</span>';
+            echo '</div>';
+            echo '</div>';
+          }
+
+        echo '</div>';
+
+        //
+        // Font Color
+        if ( ! empty( $args['color'] ) ) {
+          $default_color_attr = ( ! empty( $default_value['color'] ) ) ? ' data-default-color="'. esc_attr( $default_value['color'] ) .'"' : '';
+          echo '<div class="hcf--block hcf--block-font-color">';
+          echo '<div class="hcf--title">'. esc_html__( 'Font Color', 'hcf' ) .'</div>';
+          echo '<div class="hcf-field-color">';
+          echo '<input type="text" name="'. esc_attr( $this->field_name( '[color]' ) ) .'" class="hcf-color hcf--color" value="'. esc_attr( $this->value['color'] ) .'"'. $default_color_attr .' />';
+          echo '</div>';
+          echo '</div>';
+        }
+
+        //
+        // Custom style
+        if ( ! empty( $args['custom_style'] ) ) {
+          echo '<div class="hcf--block hcf--block-custom-style">';
+          echo '<div class="hcf--title">'. esc_html__( 'Custom Style', 'hcf' ) .'</div>';
+          echo '<textarea name="'. esc_attr( $this->field_name( '[custom-style]' ) ) .'" class="hcf--custom-style">'. esc_attr( $this->value['custom-style'] ) .'</textarea>';
+          echo '</div>';
+        }
+
+        //
+        // Preview
+        $always_preview = ( $args['preview'] !== 'always' ) ? ' hidden' : '';
+
+        if ( ! empty( $args['preview'] ) ) {
+          echo '<div class="hcf--block hcf--block-preview'. esc_attr( $always_preview ) .'">';
+          echo '<div class="hcf--toggle fas fa-toggle-off"></div>';
+          echo '<div class="hcf--preview">'. esc_attr( $args['preview_text'] ) .'</div>';
+          echo '</div>';
+        }
+
+        echo '<input type="hidden" name="'. esc_attr( $this->field_name( '[type]' ) ) .'" class="hcf--type" value="'. esc_attr( $this->value['type'] ) .'" />';
+        echo '<input type="hidden" name="'. esc_attr( $this->field_name( '[unit]' ) ) .'" class="hcf--unit-save" value="'. esc_attr( $args['unit'] ) .'" />';
+
+      echo '</div>';
+
+      echo $this->field_after();
+
+    }
+
+    public function create_select( $options, $name, $placeholder = '', $is_multiple = false ) {
+
+      $multiple_name = ( $is_multiple ) ? '[]' : '';
+      $multiple_attr = ( $is_multiple ) ? ' multiple data-multiple="true"' : '';
+      $chosen_rtl    = ( $this->chosen && is_rtl() ) ? ' chosen-rtl' : '';
+
+      $output  = '<select name="'. esc_attr( $this->field_name( '['. $name .']'. $multiple_name ) ) .'" class="hcf--'. esc_attr( $name ) . esc_attr( $chosen_rtl ) .'" data-placeholder="'. esc_attr( $placeholder ) .'"'. $multiple_attr .'>';
+      $output .= ( ! empty( $placeholder ) ) ? '<option value="">'. esc_attr( ( ! $this->chosen ) ? $placeholder : '' ) .'</option>' : '';
+
+      if ( ! empty( $options ) ) {
+        foreach ( $options as $option_key => $option_value ) {
+          if ( $is_multiple ) {
+            $selected = ( in_array( $option_value, $this->value[$name] ) ) ? ' selected' : '';
+            $output .= '<option value="'. esc_attr( $option_value ) .'"'. esc_attr( $selected ).'>'. esc_attr( $option_value ) .'</option>';
+          } else {
+            $option_key = ( is_numeric( $option_key ) ) ? $option_value : $option_key;
+            $selected = ( $option_key === $this->value[$name] ) ? ' selected' : '';
+            $output .= '<option value="'. esc_attr( $option_key ) .'"'. esc_attr( $selected ).'>'. esc_attr( $option_value ) .'</option>';
+          }
+        }
+      }
+
+      $output .= '</select>';
+
+      return $output;
+
+    }
+
+    public function enqueue() {
+
+      if ( ! wp_script_is( 'hcf-webfontloader' ) ) {
+
+        HCF::include_plugin_file( 'fields/typography/google-fonts.php' );
+
+        wp_enqueue_script( 'hcf-webfontloader', 'https://cdn.jsdelivr.net/npm/webfontloader@1.6.28/webfontloader.min.js', array( 'hcf' ), '1.6.28', true );
+
+        $webfonts = array();
+
+        $customwebfonts = apply_filters( 'hcf_field_typography_customwebfonts', array() );
+
+        if ( ! empty( $customwebfonts ) ) {
+          $webfonts['custom'] = array(
+            'label' => esc_html__( 'Custom Web Fonts', 'hcf' ),
+            'fonts' => $customwebfonts
+          );
+        }
+
+        $webfonts['safe'] = array(
+          'label' => esc_html__( 'Safe Web Fonts', 'hcf' ),
+          'fonts' => apply_filters( 'hcf_field_typography_safewebfonts', array(
+            'Arial',
+            'Arial Black',
+            'Helvetica',
+            'Times New Roman',
+            'Courier New',
+            'Tahoma',
+            'Verdana',
+            'Impact',
+            'Trebuchet MS',
+            'Comic Sans MS',
+            'Lucida Console',
+            'Lucida Sans Unicode',
+            'Georgia, serif',
+            'Palatino Linotype'
+          )
+        ) );
+
+        $webfonts['google'] = array(
+          'label' => esc_html__( 'Google Web Fonts', 'hcf' ),
+          'fonts' => apply_filters( 'hcf_field_typography_googlewebfonts', hcf_get_google_fonts()
+        ) );
+
+        $defaultstyles = apply_filters( 'hcf_field_typography_defaultstyles', array( 'normal', 'italic', '700', '700italic' ) );
+
+        $googlestyles = apply_filters( 'hcf_field_typography_googlestyles', array(
+          '100'       => 'Thin 100',
+          '100italic' => 'Thin 100 Italic',
+          '200'       => 'Extra-Light 200',
+          '200italic' => 'Extra-Light 200 Italic',
+          '300'       => 'Light 300',
+          '300italic' => 'Light 300 Italic',
+          'normal'    => 'Normal 400',
+          'italic'    => 'Normal 400 Italic',
+          '500'       => 'Medium 500',
+          '500italic' => 'Medium 500 Italic',
+          '600'       => 'Semi-Bold 600',
+          '600italic' => 'Semi-Bold 600 Italic',
+          '700'       => 'Bold 700',
+          '700italic' => 'Bold 700 Italic',
+          '800'       => 'Extra-Bold 800',
+          '800italic' => 'Extra-Bold 800 Italic',
+          '900'       => 'Black 900',
+          '900italic' => 'Black 900 Italic'
+        ) );
+
+        $webfonts = apply_filters( 'hcf_field_typography_webfonts', $webfonts );
+
+        wp_localize_script( 'hcf', 'hcf_typography_json', array(
+          'webfonts'      => $webfonts,
+          'defaultstyles' => $defaultstyles,
+          'googlestyles'  => $googlestyles
+        ) );
+
+      }
+
+    }
+
+    public function enqueue_google_fonts( $method = 'enqueue' ) {
+
+      $is_google = false;
+
+      if ( ! empty( $this->value['type'] ) ) {
+        $is_google = ( $this->value['type'] === 'google' ) ? true : false;
+      } else {
+        HCF::include_plugin_file( 'fields/typography/google-fonts.php' );
+        $is_google = ( array_key_exists( $this->value['font-family'], hcf_get_google_fonts() ) ) ? true : false;
+      }
+
+      if ( $is_google ) {
+
+        // set style
+        $font_family = ( ! empty( $this->value['font-family'] ) ) ? $this->value['font-family'] : '';
+        $font_weight = ( ! empty( $this->value['font-weight'] ) ) ? $this->value['font-weight'] : '';
+        $font_style  = ( ! empty( $this->value['font-style'] ) ) ? $this->value['font-style'] : '';
+
+        if ( $font_weight || $font_style ) {
+          $style = $font_weight . $font_style;
+          if ( ! empty( $style ) ) {
+            $style = ( $style === 'normal' ) ? '400' : $style;
+            HCF::$webfonts[$method][$font_family][$style] = $style;
+          }
+        } else {
+          HCF::$webfonts[$method][$font_family] = array();
+        }
+
+        // set extra styles
+        if ( ! empty( $this->value['extra-styles'] ) ) {
+          foreach ( $this->value['extra-styles'] as $extra_style ) {
+            if ( ! empty( $extra_style ) ) {
+              $extra_style = ( $extra_style === 'normal' ) ? '400' : $extra_style;
+              HCF::$webfonts[$method][$font_family][$extra_style] = $extra_style;
+            }
+          }
+        }
+
+        // set subsets
+        if ( ! empty( $this->value['subset'] ) ) {
+          $this->value['subset'] = ( is_array( $this->value['subset'] ) ) ? $this->value['subset'] : array_filter( (array) $this->value['subset'] );
+          foreach ( $this->value['subset'] as $subset ) {
+            if( ! empty( $subset ) ) {
+              HCF::$subsets[$subset] = $subset;
+            }
+          }
+        }
+
+        return true;
+
+      }
+
+      return false;
+
+    }
+
+    public function output() {
+
+      $output    = '';
+      $bg_image  = array();
+      $important = ( ! empty( $this->field['output_important'] ) ) ? '!important' : '';
+      $element   = ( is_array( $this->field['output'] ) ) ? join( ',', $this->field['output'] ) : $this->field['output'];
+
+      $font_family   = ( ! empty( $this->value['font-family'] ) ) ? $this->value['font-family'] : '';
+      $backup_family = ( ! empty( $this->value['backup-font-family'] ) ) ? ', '. $this->value['backup-font-family'] : '';
+
+      if ( $font_family ) {
+        $output .= 'font-family:"'. $font_family .'"'. $backup_family . $important .';';
+      }
+
+      // Common font properties
+      $properties = array(
+        'color',
+        'font-weight',
+        'font-style',
+        'font-variant',
+        'text-align',
+        'text-transform',
+        'text-decoration',
+      );
+
+      foreach ( $properties as $property ) {
+        if ( isset( $this->value[$property] ) && $this->value[$property] !== '' ) {
+          $output .= $property .':'. $this->value[$property] . $important .';';
+        }
+      }
+
+      $properties = array(
+        'font-size',
+        'line-height',
+        'letter-spacing',
+        'word-spacing',
+      );
+
+      $unit = ( ! empty( $this->value['unit'] ) ) ? $this->value['unit'] : 'px';
+      $line_height_unit = ( ! empty( $this->value['line_height_unit'] ) ) ? $this->value['line_height_unit'] : $unit;
+
+      foreach ( $properties as $property ) {
+        if ( isset( $this->value[$property] ) && $this->value[$property] !== '' ) {
+          $unit = ( $property === 'line-height' ) ? $line_height_unit : $unit;
+          $output .= $property .':'. $this->value[$property] . $unit . $important .';';
+        }
+      }
+
+      $custom_style = ( ! empty( $this->value['custom-style'] ) ) ? $this->value['custom-style'] : '';
+
+      if ( $output ) {
+        $output = $element .'{'. $output . $custom_style .'}';
+      }
+
+      $this->parent->output_css .= $output;
+
+      return $output;
+
+    }
+
+  }
+}

@@ -1,74 +1,64 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ToI7DPX1p60mls23fAlbqY3d4xgvBmn5
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: date
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_date' ) ) {
+  class HCF_Field_date extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $default_settings = array(
+        'dateFormat' => 'mm/dd/yy',
+      );
+
+      $settings = ( ! empty( $this->field['settings'] ) ) ? $this->field['settings'] : array();
+      $settings = wp_parse_args( $settings, $default_settings );
+
+      echo $this->field_before();
+
+      if ( ! empty( $this->field['from_to'] ) ) {
+
+        $args = wp_parse_args( $this->field, array(
+          'text_from' => esc_html__( 'From', 'hcf' ),
+          'text_to'   => esc_html__( 'To', 'hcf' ),
+        ) );
+
+        $value = wp_parse_args( $this->value, array(
+          'from' => '',
+          'to'   => '',
+        ) );
+
+        echo '<label class="hcf--from">'. esc_attr( $args['text_from'] ) .' <input type="text" name="'. esc_attr( $this->field_name( '[from]' ) ) .'" value="'. esc_attr( $value['from'] ) .'"'. $this->field_attributes() .'/></label>';
+        echo '<label class="hcf--to">'. esc_attr( $args['text_to'] ) .' <input type="text" name="'. esc_attr( $this->field_name( '[to]' ) ) .'" value="'. esc_attr( $value['to'] ) .'"'. $this->field_attributes() .'/></label>';
+
+      } else {
+
+        echo '<input type="text" name="'. esc_attr( $this->field_name() ) .'" value="'. esc_attr( $this->value ) .'"'. $this->field_attributes() .'/>';
+
+      }
+
+      echo '<div class="hcf-date-settings" data-settings="'. esc_attr( json_encode( $settings ) ) .'"></div>';
+
+      echo $this->field_after();
+
+    }
+
+    public function enqueue() {
+
+      if ( ! wp_script_is( 'jquery-ui-datepicker' ) ) {
+        wp_enqueue_script( 'jquery-ui-datepicker' );
+      }
+
+    }
+
+  }
+}

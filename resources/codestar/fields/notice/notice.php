@@ -1,40 +1,26 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: notice
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_notice' ) ) {
+  class HCF_Field_notice extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $style = ( ! empty( $this->field['style'] ) ) ? $this->field['style'] : 'normal';
+
+      echo ( ! empty( $this->field['content'] ) ) ? '<div class="hcf-notice hcf-notice-'. esc_attr( $style ) .'">'. $this->field['content'] .'</div>' : '';
+
+    }
+
+  }
+}

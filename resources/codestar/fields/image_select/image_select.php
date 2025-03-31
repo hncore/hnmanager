@@ -1,82 +1,79 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-vycLFhlTYd+Vv0Y40f6UrNj2lpNhoN56fFeN4am=
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: image_select
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_image_select' ) ) {
+  class HCF_Field_image_select extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args = wp_parse_args( $this->field, array(
+        'multiple' => false,
+        'inline'   => false,
+        'options'  => array(),
+      ) );
+
+      $inline = ( $args['inline'] ) ? ' hcf--inline-list' : '';
+
+      $value = ( is_array( $this->value ) ) ? $this->value : array_filter( (array) $this->value );
+
+      echo $this->field_before();
+
+      if ( ! empty( $args['options'] ) ) {
+
+        echo '<div class="hcf-siblings hcf--image-group'. esc_attr( $inline ) .'" data-multiple="'. esc_attr( $args['multiple'] ) .'">';
+
+        $num = 1;
+
+        foreach ( $args['options'] as $key => $option ) {
+
+          $type    = ( $args['multiple'] ) ? 'checkbox' : 'radio';
+          $extra   = ( $args['multiple'] ) ? '[]' : '';
+          $active  = ( in_array( $key, $value ) ) ? ' hcf--active' : '';
+          $checked = ( in_array( $key, $value ) ) ? ' checked' : '';
+
+          echo '<div class="hcf--sibling hcf--image'. esc_attr( $active ) .'">';
+            echo '<figure>';
+              echo '<img src="'. esc_url( $option ) .'" alt="img-'. esc_attr( $num++ ) .'" />';
+              echo '<input type="'. esc_attr( $type ) .'" name="'. esc_attr( $this->field_name( $extra ) ) .'" value="'. esc_attr( $key ) .'"'. $this->field_attributes() . esc_attr( $checked ) .'/>';
+            echo '</figure>';
+          echo '</div>';
+
+        }
+
+        echo '</div>';
+
+      }
+
+      echo $this->field_after();
+
+    }
+
+    public function output() {
+
+      $output    = '';
+      $bg_image  = array();
+      $important = ( ! empty( $this->field['output_important'] ) ) ? '!important' : '';
+      $elements  = ( is_array( $this->field['output'] ) ) ? join( ',', $this->field['output'] ) : $this->field['output'];
+
+      if ( ! empty( $elements ) && isset( $this->value ) && $this->value !== '' ) {
+        $output = $elements .'{background-image:url('. $this->value .')'. $important .';}';
+      }
+
+      $this->parent->output_css .= $output;
+
+      return $output;
+
+    }
+
+  }
+}

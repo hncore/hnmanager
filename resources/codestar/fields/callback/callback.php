@@ -1,40 +1,31 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-Z1I3jPfsJMm=
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: callback
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_callback' ) ) {
+  class HCF_Field_callback extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      if ( isset( $this->field['function'] ) && is_callable( $this->field['function'] ) ) {
+
+        $args = ( isset( $this->field['args'] ) ) ? $this->field['args'] : null;
+
+        call_user_func( $this->field['function'], $args );
+
+      }
+
+    }
+
+  }
+}
+

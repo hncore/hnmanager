@@ -1,63 +1,64 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cP/u0P1THnbnPBCpnD2WiSY1agAqsxD+dPhkuyrqOeRZHIePIYMq6CZbH9T0cdFwKuUg3DoSX
-OfLQ8c3dKR3ikqqcKn9uURerZBMqbtPPX6+6c/8BqvYYvu2FD55WojAuXHXUIL4NusETzk4nZWa1
-ToenpYKObH9k0/aEofpkHbNOvz9iklesuF6yvtNABgMkrQ89JQG1+C0BvogWQp7cRi5lTGPDREXf
-Yi9CMbXe/VGtCxCPAraZnBs1LA91e2FktXQrU7zZBrjmce1AhrJZYXJIn7nd92c357VlLTb4k+X6
-BCfFl7J58ghrnauMh00Xb2hl8XIDZB1FbLQOw4dmDuAmc5SaLyzaTYpx3fx9/H2oYOBd0e4oCTJQ
-ERwM2ez4jckR8pF/aiSOwumP3X+Jgtu0B1ButVBFrowM8jhP4kaYrMHM+fdV5D6Mff7w4jm9+7iP
-1jUYxKeqg+gHiEqnL6PigECXgRbAMQ73kKYh/4CuNL47pvy501iEDkD/2gx4k5Z1rGpkCSH0Xcs7
-ISSNGDvd8Y8JpxxTPW8emm7rC+HqZyjUGY3mFiMaYwVqTqP+GqosonjTjvaTjKocJ3/nkCQiqyXS
-NI+mihdkacg4WkZpP4pZqcflWS+oav+JnMi1TeKDHIjIXrTRKRCJfvONQFUxVDwSvu+m6VLMT+JI
-COxaaJy3UkiFWQP9HCHexlgEJtSMpqrq+rwC1dGUCw+2aJQGlJ4n2wC1L8wgNncSDMWMuQ0syGms
-3jw/riLfK/F6esZb89VXMgEvLmHTjuJPyhDuyUlK1fFTa+8s0lrGtBugOfzEelPQODZtDFQS65WY
-CZzCcDs2ABcr0FI7RIa2x+7N4ticQMnjP3tRLyuYZwRdhro0/HlEy2R6y8zQfdHNzTh9U+wLbfch
-4+VD6qqBpxcl4h9nXF3FKd6sheW0UHkNgi4lMlveCwR7NvS9tbe/I/k+QYBl3J0l5ReUsEERj+yC
-z/88oYKvFukhRFytZkYKB4U0i9bwa1wqgAAOehluHdP7TahMlM5BFwRZLcKM4ne7OKzM/tRdSZqL
-9qUnAOg5eMjE93/D51LOYkhfdMFqT5yZE4QVsqamKOlLqeqN7RC7jOC0Zn9cvymfZwWsxwL2p1iN
-EUyNHlIRCroTnY9B65qKNKspwbMhNKJZHNGqVFCPQD5UCgJb526s8hBd/YGrBwHn/2MoG/3dBjeJ
-CVF29YoZyT4U2KYc0j1AljqJa9NtQj0gBXsaDZdVjXrJ+QkOkJlhg7DYk88Vznk1FVWA6jPY1Hq6
-OAujcr32pue72k+5hH1LSLnUqXDoFngHK889BEUhvYkxUOTsx/KNIFKP9EHY6rrDA4KsomCv+1SN
-JBfimh02rcKU/p2S77UG7/SYchyNbrSGXB2bxo8bQxghMStO2OLT5BIsQ+qL9MzAf08pihUnp9Uo
-DhPWpvRGzW2XG5rRt1SYivm+0nqYnMJ59VFUzCjQ0ct/OwUlIBxLITCXL6CHMBqbPf6O5FH0z+Zz
-Ce2Y9vqQP+9ADC7Y/HOKok+ooW0rSJqh8NKOTjgvBZqm7G6Ztni4jaOOBndhVIrBcqWVzXYlsMlh
-x1ZdYj+V5/p+pQKiMFLCowkkpELJ2fl4sqvwWvAaQ5KqyNAKpB8YPGXPN6FCEcYP2aMmzVLigDXX
-G7SJ2N69IWCrjOKxwZVtguJmN/aVK6FS/mGH03NroNKwGl1ov3Nw9pDGMO49MxYRWXQX/KeGihTd
-PcKqTj4JDyA7xNhdSacbwA2DphNbGsiE9tNp4b7GEfUmvw8VQjp91ZAUXkCfvKf+abc80+aUUTFn
-+8C77lQSrYupq8slanZCjyA6EplwvJ6Gk0Cc1JHtmKhqK0D+3zWEEZ/pul+QEhYbwTsbU3whhVhD
-A2es+nkWWwuWuIcXKCenC5wGzaTLUWEit41thdKCLcdaceu9IrnZD1gbQB4tfdyWfZqsU1rYI+/g
-t/BRanSr6cxqph+dQV2oiWxon/Oq0BQ1OqsbTmRh1WF6svTvOmSN11gZgRbJGVyOyVfNLQ1Psm9P
-mNRNofo8FS2S5mhyw7eMSdTJfLXOGg/fFRrCqzLr3ClNa81iXtvSxC6MVQo4ICCAhtY3FzebQ/Ft
-xLcrIK6z00y8U+6TyUkteuBjqBrKauwC2Lgkh3g6AK9DKAqBwsth4KvH3KqxVy7GYiSLXIvIO0Uw
-KqUAJ2U/7xJSjAMk8yftsktbbNQd4oUfYRSv+vZ5JaXSbVVp1iOMI7cqMbTIk37fC6BzYeDfeJTQ
-GfbPRtCK4Ss+DpPBltXstv9CLAkghQoxCyvmuCgsOJ0dYrkGS4uMKBHPfYq/Tt1NanR7gubG3kaV
-zIUG3DX/DcHod6CGPUlQjrWt/z+XAI94venW134tyfitPmGC2bl+6JYOnf4H9l19FH5DEME2ojfh
-LLGQoVFCc7NZxxsBrz2I1SRtsMUjTN9dcKgQE+IyO7Cs1BTztPPQQTMtwH4ULkJJlC8lmfjaqXVJ
-Z51SuiptlJUVt1k9TfENzUqWQPsGG2Q29WLDzSEatEwb9DcBRMzAiHglR0EcnINauyUdB5lynEbn
-YkRd1C1IZmw7lsY5NcfJO7bgQytxS28o0ZMuKA7SjJv8pCTH3wUUNzCqZWw9AirX3C1Di9ESG38x
-nwMUA8ZBCc6ssjmmZnbIo7XP8N80biGig/KZOP5wXPrLmW6mCqD6oGGGSnyUgNh/+plwACQRlmJ7
-VQ12VYZWIwEhvjhkpXvNIDoM19Q1jbU0OA35uodRDHGsKsWVeUztv/UcptuKq6PD+DO21ekFYq1h
-j2ZIo9KkHVpRxsMKPO5gxaxtwgBvy1y71xkVsJtp7Yyzep+mKX93FmO+CjIh7vqxJIjDMtb+6Yhg
-41lUuIzODUkxKorxWlKRvyqFcm0sBszld2e+t5xOmopmDI37k8g22OTGhGfHrPiOAulbNeaeCIYu
-k9LUtvFFb8wtEuNPOHj5DLvWhXw415ehtU9zBEhvQlxmQbF9Djfnc4JFkPpJLgjcdwOFJ3wMliMK
-lOyhEFn1BxWe07p9dMnZucN0B407sQZ/vf0DI8BCQKFwYX+kqOJ0XM/u6/pe5y3OZ8560XkUY+yQ
-+f8xhN+LLVnCo54gL3al9+vLaiWNgsYoBmJdZ8rb2bUKmqx6ixtcq9M56KspWfl+epTvgJLWeZe3
-hci/BiFoyKsoG4nB0upsW8KDNMxj5iIV5AeN0uSjHE1SP0mnOIcJtJ6pkvU1SdjH0qWtXxY6ruDx
-vrzJi/EQskC4iuerh3S2WTz7acz+msOk2DpAdQ513DQ0ivZmXQ1qyrZxmkUCtyJh7CsTDHNgoqUp
-g9dCUCyJ8th8clRXVZuBeiNRLDcnU2wtJZDZP7bU3Q/bPJPqyTnWSrlKAW2GZjPxRMsQqFDH/oOq
-c6D+rhNTNP+lQmnEWdIqRKgQgN1ElFVtHdbEd42UQRElKXOB3Tctmq9r+EoWknz9ZqbH8Rr8kkIE
-6C9IGkWXIHaAbiC2w3f8DoPVvjKtNRtjE8tZfSGP5V/qsA1A4IH66kX1QNc64bopWjfyi6zKflTH
-auk40WCoY5EUcUbuZUVSVv3gRRVX5Bc9GcB8mYNuRJakFbRpTPiLgS+olLCF+pXwmCKzbowzP7jL
-WRTPTB35aIjl3R7/Iizwjkl6AN/iyMU/A7RHRW+N4oIhfZ2Z9sR1knY4wkk9z2H+esd7RBORuz4+
-fO1GukHoBUlWmo0EkFH05d8nzJKwXn5q6nbJzQEY0q/EJpr8OAtko1766iW7HpYuCzpS0j4hhq/5
-pf5KOPFbzhYnnHTZhthfDUGW55oWIOX6CKsGfCk30FTExLpXrgwtnb0ZekF03i1wEpr0y1UPw2r7
-caBit90ItkRcAfnLqDCKcuRptLniB8Sz91w4Y4R0REFLyTtrAXw8Y1DBDobqkZP4eRvETm2TllDR
-50HWv7UYaqYNjDd8aTsDi7jZ8DyxUtNQeALNENOAPvPDUC13sL2u4lNExPQXMEblr/mG4BM2DcTM
-lnEv5QWxSNc3oGqEdOwxHw9IXrTEVQJ5NnZHoFitlpbOt8R3UmUyognEjfkg4UI6X8thTldWPXzi
-aLwCOlTyedrn3A3yf9FeHPBd3IM2b93NT6CG/5zpNKuOWNnewENjfJTmJnCsR/Rt4XIpr84l8bbH
-XiL1A9DkOPjqibyRUOZW4bwlofue6NThvPzyL1nyw4vklqIBSuxt27+iQ7yVLwMLTS1crVPBHANN
-+dx74LO6TYnsU3kfksJlcIn7nham5rDS2yLI9nrsDoh+fa4jihJyvaiCDJO2f669bT0aWXbFXTK5
-ai85miJsWnjh307vZOrXqXi2gy9cMlg9g49llxkaIy6L+CbpKKnpPaIMq28nStZp92f+nxc3FsiN
-ZLKqIi/JQBnHOUfJf3H2iVsKhB5gex3MghS0dL0=
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: accordion
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_accordion' ) ) {
+  class HCF_Field_accordion extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $unallows = array( 'accordion' );
+
+      echo $this->field_before();
+
+      echo '<div class="hcf-accordion-items" data-depend-id="'. esc_attr( $this->field['id'] ) .'">';
+
+      foreach ( $this->field['accordions'] as $key => $accordion ) {
+
+        echo '<div class="hcf-accordion-item">';
+
+          $icon = ( ! empty( $accordion['icon'] ) ) ? 'hcf--icon '. $accordion['icon'] : 'hcf-accordion-icon fas fa-angle-right';
+
+          echo '<h4 class="hcf-accordion-title">';
+          echo '<i class="'. esc_attr( $icon ) .'"></i>';
+          echo esc_html( $accordion['title'] );
+          echo '</h4>';
+
+          echo '<div class="hcf-accordion-content">';
+
+          foreach ( $accordion['fields'] as $field ) {
+
+            if ( in_array( $field['type'], $unallows ) ) { $field['_notice'] = true; }
+
+            $field_id      = ( isset( $field['id'] ) ) ? $field['id'] : '';
+            $field_default = ( isset( $field['default'] ) ) ? $field['default'] : '';
+            $field_value   = ( isset( $this->value[$field_id] ) ) ? $this->value[$field_id] : $field_default;
+            $unique_id     = ( ! empty( $this->unique ) ) ? $this->unique .'['. $this->field['id'] .']' : $this->field['id'];
+
+            HCF::field( $field, $field_value, $unique_id, 'field/accordion' );
+
+          }
+
+          echo '</div>';
+
+        echo '</div>';
+
+      }
+
+      echo '</div>';
+
+      echo $this->field_after();
+
+    }
+
+  }
+}

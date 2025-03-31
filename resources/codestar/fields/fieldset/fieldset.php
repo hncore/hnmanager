@@ -1,50 +1,41 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-yK3ZA2BMP2FHsg3ric9bo0c6oRA+ewUavgQhmG==
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: fieldset
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_fieldset' ) ) {
+  class HCF_Field_fieldset extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      echo $this->field_before();
+
+      echo '<div class="hcf-fieldset-content" data-depend-id="'. esc_attr( $this->field['id'] ) .'">';
+
+      foreach ( $this->field['fields'] as $field ) {
+
+        $field_id      = ( isset( $field['id'] ) ) ? $field['id'] : '';
+        $field_default = ( isset( $field['default'] ) ) ? $field['default'] : '';
+        $field_value   = ( isset( $this->value[$field_id] ) ) ? $this->value[$field_id] : $field_default;
+        $unique_id     = ( ! empty( $this->unique ) ) ? $this->unique .'['. $this->field['id'] .']' : $this->field['id'];
+
+        HCF::field( $field, $field_value, $unique_id, 'field/fieldset' );
+
+      }
+
+      echo '</div>';
+
+      echo $this->field_after();
+
+    }
+
+  }
+}

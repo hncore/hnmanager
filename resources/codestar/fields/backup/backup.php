@@ -1,60 +1,38 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: backup
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_backup' ) ) {
+  class HCF_Field_backup extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $unique = $this->unique;
+      $nonce  = wp_create_nonce( 'hcf_backup_nonce' );
+      $export = add_query_arg( array( 'action' => 'hcf-export', 'unique' => $unique, 'nonce' => $nonce ), admin_url( 'admin-ajax.php' ) );
+
+      echo $this->field_before();
+
+      echo '<textarea name="hcf_import_data" class="hcf-import-data"></textarea>';
+      echo '<button type="submit" class="button button-primary hcf-confirm hcf-import" data-unique="'. esc_attr( $unique ) .'" data-nonce="'. esc_attr( $nonce ) .'">'. esc_html__( 'Import', 'hcf' ) .'</button>';
+      echo '<hr />';
+      echo '<textarea readonly="readonly" class="hcf-export-data">'. esc_attr( json_encode( get_option( $unique ) ) ) .'</textarea>';
+      echo '<a href="'. esc_url( $export ) .'" class="button button-primary hcf-export" target="_blank">'. esc_html__( 'Export & Download', 'hcf' ) .'</a>';
+      echo '<hr />';
+      echo '<button type="submit" name="hcf_transient[reset]" value="reset" class="button hcf-warning-primary hcf-confirm hcf-reset" data-unique="'. esc_attr( $unique ) .'" data-nonce="'. esc_attr( $nonce ) .'">'. esc_html__( 'Reset', 'hcf' ) .'</button>';
+
+      echo $this->field_after();
+
+    }
+
+  }
+}

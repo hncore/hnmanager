@@ -1,229 +1,340 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-LegtouKtGF3de61Wlve=
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: background
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_background' ) ) {
+  class HCF_Field_background extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args                             = wp_parse_args( $this->field, array(
+        'background_color'              => true,
+        'background_image'              => true,
+        'background_position'           => true,
+        'background_repeat'             => true,
+        'background_attachment'         => true,
+        'background_size'               => true,
+        'background_origin'             => false,
+        'background_clip'               => false,
+        'background_blend_mode'         => false,
+        'background_gradient'           => false,
+        'background_gradient_color'     => true,
+        'background_gradient_direction' => true,
+        'background_image_preview'      => true,
+        'background_auto_attributes'    => false,
+        'compact'                       => false,
+        'background_image_library'      => 'image',
+        'background_image_placeholder'  => esc_html__( 'Not selected', 'hcf' ),
+      ) );
+
+      if ( $args['compact'] ) {
+        $args['background_color']           = false;
+        $args['background_auto_attributes'] = true;
+      }
+
+      $default_value                    = array(
+        'background-color'              => '',
+        'background-image'              => '',
+        'background-position'           => '',
+        'background-repeat'             => '',
+        'background-attachment'         => '',
+        'background-size'               => '',
+        'background-origin'             => '',
+        'background-clip'               => '',
+        'background-blend-mode'         => '',
+        'background-gradient-color'     => '',
+        'background-gradient-direction' => '',
+      );
+
+      $default_value = ( ! empty( $this->field['default'] ) ) ? wp_parse_args( $this->field['default'], $default_value ) : $default_value;
+
+      $this->value = wp_parse_args( $this->value, $default_value );
+
+      echo $this->field_before();
+
+      echo '<div class="hcf--background-colors">';
+
+      //
+      // Background Color
+      if ( ! empty( $args['background_color'] ) ) {
+
+        echo '<div class="hcf--color">';
+
+        echo ( ! empty( $args['background_gradient'] ) ) ? '<div class="hcf--title">'. esc_html__( 'From', 'hcf' ) .'</div>' : '';
+
+        HCF::field( array(
+          'id'      => 'background-color',
+          'type'    => 'color',
+          'default' => $default_value['background-color'],
+        ), $this->value['background-color'], $this->field_name(), 'field/background' );
+
+        echo '</div>';
+
+      }
+
+      //
+      // Background Gradient Color
+      if ( ! empty( $args['background_gradient_color'] ) && ! empty( $args['background_gradient'] ) ) {
+
+        echo '<div class="hcf--color">';
+
+        echo ( ! empty( $args['background_gradient'] ) ) ? '<div class="hcf--title">'. esc_html__( 'To', 'hcf' ) .'</div>' : '';
+
+        HCF::field( array(
+          'id'      => 'background-gradient-color',
+          'type'    => 'color',
+          'default' => $default_value['background-gradient-color'],
+        ), $this->value['background-gradient-color'], $this->field_name(), 'field/background' );
+
+        echo '</div>';
+
+      }
+
+      //
+      // Background Gradient Direction
+      if ( ! empty( $args['background_gradient_direction'] ) && ! empty( $args['background_gradient'] ) ) {
+
+        echo '<div class="hcf--color">';
+
+        echo ( ! empty( $args['background_gradient'] ) ) ? '<div class="hcf---title">'. esc_html__( 'Direction', 'hcf' ) .'</div>' : '';
+
+        HCF::field( array(
+          'id'          => 'background-gradient-direction',
+          'type'        => 'select',
+          'options'     => array(
+            ''          => esc_html__( 'Gradient Direction', 'hcf' ),
+            'to bottom' => esc_html__( '&#8659; top to bottom', 'hcf' ),
+            'to right'  => esc_html__( '&#8658; left to right', 'hcf' ),
+            '135deg'    => esc_html__( '&#8664; corner top to right', 'hcf' ),
+            '-135deg'   => esc_html__( '&#8665; corner top to left', 'hcf' ),
+          ),
+        ), $this->value['background-gradient-direction'], $this->field_name(), 'field/background' );
+
+        echo '</div>';
+
+      }
+
+      echo '</div>';
+
+      //
+      // Background Image
+      if ( ! empty( $args['background_image'] ) ) {
+
+        echo '<div class="hcf--background-image">';
+
+        HCF::field( array(
+          'id'          => 'background-image',
+          'type'        => 'media',
+          'class'       => 'hcf-assign-field-background',
+          'library'     => $args['background_image_library'],
+          'preview'     => $args['background_image_preview'],
+          'placeholder' => $args['background_image_placeholder'],
+          'attributes'  => array( 'data-depend-id' => $this->field['id'] ),
+        ), $this->value['background-image'], $this->field_name(), 'field/background' );
+
+        echo '</div>';
+
+      }
+
+      $auto_class   = ( ! empty( $args['background_auto_attributes'] ) ) ? ' hcf--auto-attributes' : '';
+      $hidden_class = ( ! empty( $args['background_auto_attributes'] ) && empty( $this->value['background-image']['url'] ) ) ? ' hcf--attributes-hidden' : '';
+
+      echo '<div class="hcf--background-attributes'. esc_attr( $auto_class . $hidden_class ) .'">';
+
+      //
+      // Background Position
+      if ( ! empty( $args['background_position'] ) ) {
+
+        HCF::field( array(
+          'id'              => 'background-position',
+          'type'            => 'select',
+          'options'         => array(
+            ''              => esc_html__( 'Background Position', 'hcf' ),
+            'left top'      => esc_html__( 'Left Top', 'hcf' ),
+            'left center'   => esc_html__( 'Left Center', 'hcf' ),
+            'left bottom'   => esc_html__( 'Left Bottom', 'hcf' ),
+            'center top'    => esc_html__( 'Center Top', 'hcf' ),
+            'center center' => esc_html__( 'Center Center', 'hcf' ),
+            'center bottom' => esc_html__( 'Center Bottom', 'hcf' ),
+            'right top'     => esc_html__( 'Right Top', 'hcf' ),
+            'right center'  => esc_html__( 'Right Center', 'hcf' ),
+            'right bottom'  => esc_html__( 'Right Bottom', 'hcf' ),
+          ),
+        ), $this->value['background-position'], $this->field_name(), 'field/background' );
+
+      }
+
+      //
+      // Background Repeat
+      if ( ! empty( $args['background_repeat'] ) ) {
+
+        HCF::field( array(
+          'id'          => 'background-repeat',
+          'type'        => 'select',
+          'options'     => array(
+            ''          => esc_html__( 'Background Repeat', 'hcf' ),
+            'repeat'    => esc_html__( 'Repeat', 'hcf' ),
+            'no-repeat' => esc_html__( 'No Repeat', 'hcf' ),
+            'repeat-x'  => esc_html__( 'Repeat Horizontally', 'hcf' ),
+            'repeat-y'  => esc_html__( 'Repeat Vertically', 'hcf' ),
+          ),
+        ), $this->value['background-repeat'], $this->field_name(), 'field/background' );
+
+      }
+
+      //
+      // Background Attachment
+      if ( ! empty( $args['background_attachment'] ) ) {
+
+        HCF::field( array(
+          'id'       => 'background-attachment',
+          'type'     => 'select',
+          'options'  => array(
+            ''       => esc_html__( 'Background Attachment', 'hcf' ),
+            'scroll' => esc_html__( 'Scroll', 'hcf' ),
+            'fixed'  => esc_html__( 'Fixed', 'hcf' ),
+          ),
+        ), $this->value['background-attachment'], $this->field_name(), 'field/background' );
+
+      }
+
+      //
+      // Background Size
+      if ( ! empty( $args['background_size'] ) ) {
+
+        HCF::field( array(
+          'id'        => 'background-size',
+          'type'      => 'select',
+          'options'   => array(
+            ''        => esc_html__( 'Background Size', 'hcf' ),
+            'cover'   => esc_html__( 'Cover', 'hcf' ),
+            'contain' => esc_html__( 'Contain', 'hcf' ),
+            'auto'    => esc_html__( 'Auto', 'hcf' ),
+          ),
+        ), $this->value['background-size'], $this->field_name(), 'field/background' );
+
+      }
+
+      //
+      // Background Origin
+      if ( ! empty( $args['background_origin'] ) ) {
+
+        HCF::field( array(
+          'id'            => 'background-origin',
+          'type'          => 'select',
+          'options'       => array(
+            ''            => esc_html__( 'Background Origin', 'hcf' ),
+            'padding-box' => esc_html__( 'Padding Box', 'hcf' ),
+            'border-box'  => esc_html__( 'Border Box', 'hcf' ),
+            'content-box' => esc_html__( 'Content Box', 'hcf' ),
+          ),
+        ), $this->value['background-origin'], $this->field_name(), 'field/background' );
+
+      }
+
+      //
+      // Background Clip
+      if ( ! empty( $args['background_clip'] ) ) {
+
+        HCF::field( array(
+          'id'            => 'background-clip',
+          'type'          => 'select',
+          'options'       => array(
+            ''            => esc_html__( 'Background Clip', 'hcf' ),
+            'border-box'  => esc_html__( 'Border Box', 'hcf' ),
+            'padding-box' => esc_html__( 'Padding Box', 'hcf' ),
+            'content-box' => esc_html__( 'Content Box', 'hcf' ),
+          ),
+        ), $this->value['background-clip'], $this->field_name(), 'field/background' );
+
+      }
+
+      //
+      // Background Blend Mode
+      if ( ! empty( $args['background_blend_mode'] ) ) {
+
+        HCF::field( array(
+          'id'            => 'background-blend-mode',
+          'type'          => 'select',
+          'options'       => array(
+            ''            => esc_html__( 'Background Blend Mode', 'hcf' ),
+            'normal'      => esc_html__( 'Normal', 'hcf' ),
+            'multiply'    => esc_html__( 'Multiply', 'hcf' ),
+            'screen'      => esc_html__( 'Screen', 'hcf' ),
+            'overlay'     => esc_html__( 'Overlay', 'hcf' ),
+            'darken'      => esc_html__( 'Darken', 'hcf' ),
+            'lighten'     => esc_html__( 'Lighten', 'hcf' ),
+            'color-dodge' => esc_html__( 'Color Dodge', 'hcf' ),
+            'saturation'  => esc_html__( 'Saturation', 'hcf' ),
+            'color'       => esc_html__( 'Color', 'hcf' ),
+            'luminosity'  => esc_html__( 'Luminosity', 'hcf' ),
+          ),
+        ), $this->value['background-blend-mode'], $this->field_name(), 'field/background' );
+
+      }
+
+      echo '</div>';
+
+      echo $this->field_after();
+
+    }
+
+    public function output() {
+
+      $output    = '';
+      $bg_image  = array();
+      $important = ( ! empty( $this->field['output_important'] ) ) ? '!important' : '';
+      $element   = ( is_array( $this->field['output'] ) ) ? join( ',', $this->field['output'] ) : $this->field['output'];
+
+      // Background image and gradient
+      $background_color        = ( ! empty( $this->value['background-color']              ) ) ? $this->value['background-color']              : '';
+      $background_gd_color     = ( ! empty( $this->value['background-gradient-color']     ) ) ? $this->value['background-gradient-color']     : '';
+      $background_gd_direction = ( ! empty( $this->value['background-gradient-direction'] ) ) ? $this->value['background-gradient-direction'] : '';
+      $background_image        = ( ! empty( $this->value['background-image']['url']       ) ) ? $this->value['background-image']['url']       : '';
+
+
+      if ( $background_color && $background_gd_color ) {
+        $gd_direction   = ( $background_gd_direction ) ? $background_gd_direction .',' : '';
+        $bg_image[] = 'linear-gradient('. $gd_direction . $background_color .','. $background_gd_color .')';
+        unset( $this->value['background-color'] );
+      }
+
+      if ( $background_image ) {
+        $bg_image[] = 'url('. $background_image .')';
+      }
+
+      if ( ! empty( $bg_image ) ) {
+        $output .= 'background-image:'. implode( ',', $bg_image ) . $important .';';
+      }
+
+      // Common background properties
+      $properties = array( 'color', 'position', 'repeat', 'attachment', 'size', 'origin', 'clip', 'blend-mode' );
+
+      foreach ( $properties as $property ) {
+        $property = 'background-'. $property;
+        if ( ! empty( $this->value[$property] ) ) {
+          $output .= $property .':'. $this->value[$property] . $important .';';
+        }
+      }
+
+      if ( $output ) {
+        $output = $element .'{'. $output .'}';
+      }
+
+      $this->parent->output_css .= $output;
+
+      return $output;
+
+    }
+
+  }
+}

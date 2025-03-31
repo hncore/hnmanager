@@ -1,78 +1,70 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-cW3jqBQ2Rr4FbafYXule3GzJF+XVbZCvhFAORFa=
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: spinner
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_spinner' ) ) {
+  class HCF_Field_spinner extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args = wp_parse_args( $this->field, array(
+        'max'  => 100,
+        'min'  => 0,
+        'step' => 1,
+        'unit' => '',
+      ) );
+
+      echo $this->field_before();
+
+      echo '<div class="hcf--spin"><input type="number" name="'. esc_attr( $this->field_name() ) .'" value="'. esc_attr( $this->value ) .'"'. $this->field_attributes( array( 'class' => 'hcf-input-number' ) ) .' data-min="'. esc_attr( $args['min'] ) .'" data-max="'. esc_attr( $args['max'] ) .'" data-step="'. esc_attr( $args['step'] ) .'" data-unit="'. esc_attr( $args['unit'] ) .'" step="any" /></div>';
+
+      echo $this->field_after();
+
+    }
+
+    public function enqueue() {
+
+      if ( ! wp_script_is( 'jquery-ui-spinner' ) ) {
+        wp_enqueue_script( 'jquery-ui-spinner' );
+      }
+
+    }
+
+    public function output() {
+
+      $output    = '';
+      $elements  = ( is_array( $this->field['output'] ) ) ? $this->field['output'] : array_filter( (array) $this->field['output'] );
+      $important = ( ! empty( $this->field['output_important'] ) ) ? '!important' : '';
+      $mode      = ( ! empty( $this->field['output_mode'] ) ) ? $this->field['output_mode'] : 'width';
+      $unit      = ( ! empty( $this->field['unit'] ) ) ? $this->field['unit'] : 'px';
+
+      if ( ! empty( $elements ) && isset( $this->value ) && $this->value !== '' ) {
+        foreach ( $elements as $key_property => $element ) {
+          if ( is_numeric( $key_property ) ) {
+            if ( $mode ) {
+              $output = implode( ',', $elements ) .'{'. $mode .':'. $this->value . $unit . $important .';}';
+            }
+            break;
+          } else {
+            $output .= $element .'{'. $key_property .':'. $this->value . $unit . $important .'}';
+          }
+        }
+      }
+
+      $this->parent->output_css .= $output;
+
+      return $output;
+
+    }
+
+  }
+}

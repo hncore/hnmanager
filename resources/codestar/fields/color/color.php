@@ -1,65 +1,52 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-Q8KQ08x6X0ZusS5FCzf4oi+qlM93AA8=
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: color
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_color' ) ) {
+  class HCF_Field_color extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $default_attr = ( ! empty( $this->field['default'] ) ) ? ' data-default-color="'. esc_attr( $this->field['default'] ) .'"' : '';
+
+      echo $this->field_before();
+      echo '<input type="text" name="'. esc_attr( $this->field_name() ) .'" value="'. esc_attr( $this->value ) .'" class="hcf-color"'. $default_attr . $this->field_attributes() .'/>';
+      echo $this->field_after();
+
+    }
+
+    public function output() {
+
+      $output    = '';
+      $elements  = ( is_array( $this->field['output'] ) ) ? $this->field['output'] : array_filter( (array) $this->field['output'] );
+      $important = ( ! empty( $this->field['output_important'] ) ) ? '!important' : '';
+      $mode      = ( ! empty( $this->field['output_mode'] ) ) ? $this->field['output_mode'] : 'color';
+
+      if ( ! empty( $elements ) && isset( $this->value ) && $this->value !== '' ) {
+        foreach ( $elements as $key_property => $element ) {
+          if ( is_numeric( $key_property ) ) {
+            $output = implode( ',', $elements ) .'{'. $mode .':'. $this->value . $important .';}';
+            break;
+          } else {
+            $output .= $element .'{'. $key_property .':'. $this->value . $important .'}';
+          }
+        }
+      }
+
+      $this->parent->output_css .= $output;
+
+      return $output;
+
+    }
+
+  }
+}

@@ -1,92 +1,91 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-O+yjPC/sjhHFw2IwRK2DkG==
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: link_color
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_link_color' ) ) {
+  class HCF_Field_link_color extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args = wp_parse_args( $this->field, array(
+        'color'   => true,
+        'hover'   => true,
+        'active'  => false,
+        'visited' => false,
+        'focus'   => false,
+      ) );
+
+      $default_values = array(
+        'color'   => '',
+        'hover'   => '',
+        'active'  => '',
+        'visited' => '',
+        'focus'   => '',
+      );
+
+      $color_props = array(
+        'color'    => esc_html__( 'Normal', 'hcf' ),
+        'hover'    => esc_html__( 'Hover', 'hcf' ),
+        'active'   => esc_html__( 'Active', 'hcf' ),
+        'visited'  => esc_html__( 'Visited', 'hcf' ),
+        'focus'    => esc_html__( 'Focus', 'hcf' )
+      );
+
+      $value = wp_parse_args( $this->value, $default_values );
+
+      echo $this->field_before();
+
+      foreach ( $color_props as $color_prop_key => $color_prop_value ) {
+
+        if ( ! empty( $args[$color_prop_key] ) ) {
+
+          $default_attr = ( ! empty( $this->field['default'][$color_prop_key] ) ) ? ' data-default-color="'. esc_attr( $this->field['default'][$color_prop_key] ) .'"' : '';
+
+          echo '<div class="hcf--left hcf-field-color">';
+          echo '<div class="hcf--title">'. esc_attr( $color_prop_value ) .'</div>';
+          echo '<input type="text" name="'. esc_attr( $this->field_name( '['. $color_prop_key .']' ) ) .'" value="'. esc_attr( $value[$color_prop_key] ) .'" class="hcf-color"'. $default_attr . $this->field_attributes() .'/>';
+          echo '</div>';
+
+        }
+
+      }
+
+      echo $this->field_after();
+
+    }
+
+    public function output() {
+
+      $output    = '';
+      $elements  = ( is_array( $this->field['output'] ) ) ? $this->field['output'] : array_filter( (array) $this->field['output'] );
+      $important = ( ! empty( $this->field['output_important'] ) ) ? '!important' : '';
+
+      if ( ! empty( $elements ) && isset( $this->value ) && $this->value !== '' ) {
+        foreach ( $elements as $element ) {
+
+          if ( isset( $this->value['color']   ) && $this->value['color']   !== '' ) { $output .= $element .'{color:'.         $this->value['color']   . $important .';}'; }
+          if ( isset( $this->value['hover']   ) && $this->value['hover']   !== '' ) { $output .= $element .':hover{color:'.   $this->value['hover']   . $important .';}'; }
+          if ( isset( $this->value['active']  ) && $this->value['active']  !== '' ) { $output .= $element .':active{color:'.  $this->value['active']  . $important .';}'; }
+          if ( isset( $this->value['visited'] ) && $this->value['visited'] !== '' ) { $output .= $element .':visited{color:'. $this->value['visited'] . $important .';}'; }
+          if ( isset( $this->value['focus']   ) && $this->value['focus']   !== '' ) { $output .= $element .':focus{color:'.   $this->value['focus']   . $important .';}'; }
+
+        }
+      }
+
+      $this->parent->output_css .= $output;
+
+      return $output;
+
+    }
+
+  }
+}

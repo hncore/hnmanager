@@ -1,46 +1,29 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-/ZQrCf37XYUe0Wp100DtXBVa53JN
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Sanitize
+ * Replace letter a to letter b
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! function_exists( 'hcf_sanitize_replace_a_to_b' ) ) {
+  function hcf_sanitize_replace_a_to_b( $value ) {
+    return str_replace( 'a', 'b', $value );
+  }
+}
+
+/**
+ *
+ * Sanitize title
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! function_exists( 'hcf_sanitize_title' ) ) {
+  function hcf_sanitize_title( $value ) {
+    return sanitize_title( $value );
+  }
+}

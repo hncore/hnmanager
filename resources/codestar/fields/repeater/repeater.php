@@ -1,99 +1,108 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-R49PREpG7scb4nFVSqR91CGAkrMUNPIwuFX530==
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: repeater
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_repeater' ) ) {
+  class HCF_Field_repeater extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args = wp_parse_args( $this->field, array(
+        'max'          => 0,
+        'min'          => 0,
+        'button_title' => '<i class="fas fa-plus-circle"></i>',
+      ) );
+
+      if ( preg_match( '/'. preg_quote( '['. $this->field['id'] .']' ) .'/', $this->unique ) ) {
+
+        echo '<div class="hcf-notice hcf-notice-danger">'. esc_html__( 'Error: Field ID conflict.', 'hcf' ) .'</div>';
+
+      } else {
+
+        echo $this->field_before();
+
+        echo '<div class="hcf-repeater-item hcf-repeater-hidden" data-depend-id="'. esc_attr( $this->field['id'] ) .'">';
+        echo '<div class="hcf-repeater-content">';
+        foreach ( $this->field['fields'] as $field ) {
+
+          $field_default = ( isset( $field['default'] ) ) ? $field['default'] : '';
+          $field_unique  = ( ! empty( $this->unique ) ) ? $this->unique .'['. $this->field['id'] .'][0]' : $this->field['id'] .'[0]';
+
+          HCF::field( $field, $field_default, '___'. $field_unique, 'field/repeater' );
+
+        }
+        echo '</div>';
+        echo '<div class="hcf-repeater-helper">';
+        echo '<div class="hcf-repeater-helper-inner">';
+        echo '<i class="hcf-repeater-sort fas fa-arrows-alt"></i>';
+        echo '<i class="hcf-repeater-clone far fa-clone"></i>';
+        echo '<i class="hcf-repeater-remove hcf-confirm fas fa-times" data-confirm="'. esc_html__( 'Are you sure to delete this item?', 'hcf' ) .'"></i>';
+        echo '</div>';
+        echo '</div>';
+        echo '</div>';
+
+        echo '<div class="hcf-repeater-wrapper hcf-data-wrapper" data-field-id="['. esc_attr( $this->field['id'] ) .']" data-max="'. esc_attr( $args['max'] ) .'" data-min="'. esc_attr( $args['min'] ) .'">';
+
+        if ( ! empty( $this->value ) && is_array( $this->value ) ) {
+
+          $num = 0;
+
+          foreach ( $this->value as $key => $value ) {
+
+            echo '<div class="hcf-repeater-item">';
+            echo '<div class="hcf-repeater-content">';
+            foreach ( $this->field['fields'] as $field ) {
+
+              $field_unique = ( ! empty( $this->unique ) ) ? $this->unique .'['. $this->field['id'] .']['. $num .']' : $this->field['id'] .'['. $num .']';
+              $field_value  = ( isset( $field['id'] ) && isset( $this->value[$key][$field['id']] ) ) ? $this->value[$key][$field['id']] : '';
+
+              HCF::field( $field, $field_value, $field_unique, 'field/repeater' );
+
+            }
+            echo '</div>';
+            echo '<div class="hcf-repeater-helper">';
+            echo '<div class="hcf-repeater-helper-inner">';
+            echo '<i class="hcf-repeater-sort fas fa-arrows-alt"></i>';
+            echo '<i class="hcf-repeater-clone far fa-clone"></i>';
+            echo '<i class="hcf-repeater-remove hcf-confirm fas fa-times" data-confirm="'. esc_html__( 'Are you sure to delete this item?', 'hcf' ) .'"></i>';
+            echo '</div>';
+            echo '</div>';
+            echo '</div>';
+
+            $num++;
+
+          }
+
+        }
+
+        echo '</div>';
+
+        echo '<div class="hcf-repeater-alert hcf-repeater-max">'. esc_html__( 'You cannot add more.', 'hcf' ) .'</div>';
+        echo '<div class="hcf-repeater-alert hcf-repeater-min">'. esc_html__( 'You cannot remove more.', 'hcf' ) .'</div>';
+        echo '<a href="#" class="button button-primary hcf-repeater-add">'. $args['button_title'] .'</a>';
+
+        echo $this->field_after();
+
+      }
+
+    }
+
+    public function enqueue() {
+
+      if ( ! wp_script_is( 'jquery-ui-sortable' ) ) {
+        wp_enqueue_script( 'jquery-ui-sortable' );
+      }
+
+    }
+
+  }
+}

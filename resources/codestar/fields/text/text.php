@@ -1,45 +1,30 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-H50FqDS5fzKtDtjAmn/1Pqk0LQJP+2Lt
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: text
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_text' ) ) {
+  class HCF_Field_text extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $type = ( ! empty( $this->field['attributes']['type'] ) ) ? $this->field['attributes']['type'] : 'text';
+
+      echo $this->field_before();
+
+      echo '<input type="'. esc_attr( $type ) .'" name="'. esc_attr( $this->field_name() ) .'" value="'. esc_attr( $this->value ) .'"'. $this->field_attributes() .' />';
+
+      echo $this->field_after();
+
+    }
+
+  }
+}

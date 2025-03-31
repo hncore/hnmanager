@@ -1,102 +1,98 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: map
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_map' ) ) {
+  class HCF_Field_map extends HCF_Fields {
+
+    public $version = '1.7.1';
+    public $cdn_url = 'https://cdn.jsdelivr.net/npm/leaflet@';
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args              = wp_parse_args( $this->field, array(
+        'placeholder'    => esc_html__( 'Search...', 'hcf' ),
+        'latitude_text'  => esc_html__( 'Latitude', 'hcf' ),
+        'longitude_text' => esc_html__( 'Longitude', 'hcf' ),
+        'address_field'  => '',
+        'height'         => '',
+      ) );
+
+      $value             = wp_parse_args( $this->value, array(
+        'address'        => '',
+        'latitude'       => '20',
+        'longitude'      => '0',
+        'zoom'           => '2',
+      ) );
+
+      $default_settings   = array(
+        'center'          => array( $value['latitude'], $value['longitude'] ),
+        'zoom'            => $value['zoom'],
+        'scrollWheelZoom' => false,
+      );
+
+      $settings = ( ! empty( $this->field['settings'] ) ) ? $this->field['settings'] : array();
+      $settings = wp_parse_args( $settings, $default_settings );
+
+      $style_attr  = ( ! empty( $args['height'] ) ) ? ' style="min-height:'. esc_attr( $args['height'] ) .';"' : '';
+      $placeholder = ( ! empty( $args['placeholder'] ) ) ? array( 'placeholder' => $args['placeholder'] ) : '';
+
+      echo $this->field_before();
+
+      if ( empty( $args['address_field'] ) ) {
+        echo '<div class="hcf--map-search">';
+        echo '<input type="text" name="'. esc_attr( $this->field_name( '[address]' ) ) .'" value="'. esc_attr( $value['address'] ) .'"'. $this->field_attributes( $placeholder ) .' />';
+        echo '</div>';
+      } else {
+        echo '<div class="hcf--address-field" data-address-field="'. esc_attr( $args['address_field'] ) .'"></div>';
+      }
+
+      echo '<div class="hcf--map-osm-wrap"><div class="hcf--map-osm" data-map="'. esc_attr( json_encode( $settings ) ) .'"'. $style_attr .'></div></div>';
+
+      echo '<div class="hcf--map-inputs">';
+
+        echo '<div class="hcf--map-input">';
+        echo '<label>'. esc_attr( $args['latitude_text'] ) .'</label>';
+        echo '<input type="text" name="'. esc_attr( $this->field_name( '[latitude]' ) ) .'" value="'. esc_attr( $value['latitude'] ) .'" class="hcf--latitude" />';
+        echo '</div>';
+
+        echo '<div class="hcf--map-input">';
+        echo '<label>'. esc_attr( $args['longitude_text'] ) .'</label>';
+        echo '<input type="text" name="'. esc_attr( $this->field_name( '[longitude]' ) ) .'" value="'. esc_attr( $value['longitude'] ) .'" class="hcf--longitude" />';
+        echo '</div>';
+
+      echo '</div>';
+
+      echo '<input type="hidden" name="'. esc_attr( $this->field_name( '[zoom]' ) ) .'" value="'. esc_attr( $value['zoom'] ) .'" class="hcf--zoom" />';
+
+      echo $this->field_after();
+
+    }
+
+    public function enqueue() {
+
+      if ( ! wp_script_is( 'hcf-leaflet' ) ) {
+        wp_enqueue_script( 'hcf-leaflet', esc_url( $this->cdn_url . $this->version .'/dist/leaflet.js' ), array( 'hcf' ), $this->version, true );
+      }
+
+      if ( ! wp_style_is( 'hcf-leaflet' ) ) {
+        wp_enqueue_style( 'hcf-leaflet', esc_url( $this->cdn_url . $this->version .'/dist/leaflet.css' ), array(), $this->version );
+      }
+
+      if ( ! wp_script_is( 'jquery-ui-autocomplete' ) ) {
+        wp_enqueue_script( 'jquery-ui-autocomplete' );
+      }
+
+    }
+
+  }
+}

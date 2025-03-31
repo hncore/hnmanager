@@ -1,134 +1,164 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPpArZxLwA7Iw0tOQbZqBBkjzoH4C11kc+OUutvErbOUcVFUG1CyxjVYyY2glRvHZkivOevYM
-ihRvhc7NdkYjXpV2QRM+1Z2VRxpKedoaa0VqpCn+hpT9EuW0Rqg1rMyr/qXi77SV1DVLZ/U9VZkC
-9UxFQ1B++NW7cGw/9jmjL/uRz5uSh9RsZ0+OaJrB04wTKF1/9OlOCxRsFHkUBUP1S4uxY7ICNrzH
-01ecp70EGcWwp7qM1xqJCXcyLzMx8nFUdAspU7zZBrjmce1AhrJZYXJIn1Hc97u0+4kDUT586fZ8
-BSfeoBWghOFX8rSRBKHajPSDBsIVj5WVgG2IVzr9mfXpw+wjRitaYm/YSXqAD9On2d/cR0IjuoB7
-YPoj0QSaqZCSm7Jn3aJeEgAr7bHOxdJkXYaU+N5ZNLfbDdm6mcWH4ulPJBHaJiBG+1U3iJdRpFEb
-AkjTkQIB6UGv54orS+Iq5eNonllr+cAmAMKe9Hn1f0kr7mEd7LRbXyKdnYVGsB69WG0YnmnNClXy
-72KoD2QvDmUWnHVYVxYnJu9sdPgvwdDRPNw9UGHG/HGIY5jnDZ9F28QuoZxEJeG+9pDgOfEc0qrI
-pZ9eWN07osbUbi211jWI+LPnHRHP7c+O19aFsmIgcEXoJt8EIXJzOSDshqwGNqn5FkAI41ZmLuTg
-PDKF7gE7eckTh3tIaiOYdJB2cIhfEwfg1msdAEGlbAiraDcZRGar+yl4Q20V+/Gju7sO76YUXf9W
-1Qgnr1KxIpg8xyXCSeDMIyyPrIndd1isGPTtcQiVuNsuttCDWvwj7QopenBo8qSQDUC5udzlcqwM
-0BsZyAnvu7PgZkjGUKXfN7884/EjzPHq+IbEawlmRDGTyAZlWgly+7Vd/hB/Nn8RRRNClWyFlXNH
-tIx5gG+9FsOIarAonLy83WuUXCGtJU6L2kW2TT7BX4MJVEKcRQsT3FQijPZ6zPcXBV5flaHOxyaP
-ztWcOGi5Sz4055yn7pcz1aRwbtXrnQzV6D2uJWNnFasNAFcr7zBiVD11Q8uWyj6ooWGq1ooII8qX
-X9sospz6WqlkGdg8t5h2WkmoH0/yW7uwadrYT7UEkUTm9zUeNn9otYAQIgMX0TYkf9GrQvzW1rh/
-IGKcp4gcyN2BRTyqlBud/PZbtyDcMUcpD8XY/P3s96Vge7cWjTgjYB21wRSm/g5VWX7ZoX+3YzHP
-oMUDbXZWyO+OQKRZ5cKOJJrpo5abCYDH303u07IuSoP3c5x4oFzoMwRr8hrswbHYgUGa0yKiLxAG
-PfjQZA1EHfmnC15V2D1cAOWGuoUdAddF16rfCde0mcOsXc6JfqWB+y4xXQ+aMBw0G1QQ5508QXxm
-ZOJO4FL7WKL4jUXRDRVTgB11ZHFO6PvFhHATDeFdQ2gkj5SGM6VsBJb7p4ZxfBZAfgUXG2cTbvYy
-HyLLTGMXfrk8t4F/J5uhOsp1OPxcM8JIthGIaBemYKmJQ+E1tfCrWJ/MyyQxdlMhtDtWBQjoTToa
-SFZZSqUR5cKe3pkxe6NLShqOvoitDD33ODP2iqNSKMRCZAk5wER/NtIBYEPLGeC0ieKZPL312PhU
-85E1PZTCrDa8xUklv7r8LEFKinNM6Z4d1F7s/w0j1nn9OIVviizoIr1i0hYeAmlPzHhM5WEqx0sP
-UDGQOwEkyO48yYhxLwpR4RpFTHh/d5gYXou0TwAyUJ63qnF8ZKQlQjeOD+hU7PMOlDJQa4A+BiLY
-WTFkT7/xtGYEO56xPB+X7mBVGVzj0U/gmTImTllCTlNuaohulzQ5r8Dl757TXRT8vJ01P1+TrCL+
-eomBmghIEPiXdwtFIPRpM3blERj6GNneDv8A1DhzLC/3IlfzLOg9ZmBxNgTbFLl0fC+Yll+paRCE
-NkSutuM5uDh7wtG5yY7ULi5Ug0rSEj/Mb6IBb5V8Cr6ox5+gsyqs3g3R45Q+Qyc1Kklr4PJrKaWR
-nDLE2P2+Xvf4oCLOJaBy3qHKO3IJNRRQTUkKqsUO++swoOcumG9+XSUhz2X0JK+fIF+FI7y18DFj
-HJwErsnZGVHdONWbhYwyjg8ipdDGmh845BnvqTZnrvbn8uwJu3cHvTh0mq8TptJxooOoptY1P2hS
-U+E5cCPCjgbUqRRksJSF43BomryqV1e8ghQLe/xzr6nJNgFqg7WIJVeZPHpVsJK1KElUoHKVtNny
-5ffn5nxM43XJEojdykXmcB53IyMmVlpxkqsJ6WWUm2Lv78tZZnaOWbYHa8nApzcemC7Ejjcvw3uR
-GvyY9jtkc6kLwAoV1G4xTXPbHMuisHtNqfAU4sdtoMWTU/f0g0h4datGc54Z+eBHutwaa2MimHTf
-8t0TFV/6A6hOckisMx7yaalSAEitxn9wdHFFsWTaw6od9mR6HgQR53uPmV0wElutU3BN974npGsI
-DPEWieTeKkJLvv0T8YN/+HcfyojIoQrQaOAkiuE4Q3urkwNj/QmbypJbQ1mIeXC9suoVe+0zigwD
-1ro/rJtow5FCQ24pnXCb6M67kJWlpDepf5hAvGcYLfZJiGaFDPzOlHIlRd1A2CzdkLDBIr1IYx/Q
-yfJKkUxnpmjPbo8Ct1velQG8yFyry5WCSi0cXO7G1Ds+w0cE43ixmXjTOIDjt5gwiYoduVeBAhbw
-Uz+5Qm37eGgz7CdXjcH1p6lXzxc4kOChC6adSUwx/LjDbw1v3w+9uTU9mLS5dw7ApmtgD6B/y4iH
-XF4iUHBVfFKDf8dfHR6JMTIhI2/7DoVAGm4QZu+IliK2Ag9fam9CEE0xHuag0xX6RKuCFpIgmRgI
-SMgbGYrN65hBDnL4m0Cbyg3i45anWhxgm6xT2P6Wkee8WegTHVq5M4Prjodt6TNgtLQv1MN94DaA
-BBD2cNb2qbfzm86Y+yrn8YfyGK1XdLO1jTec9ydWSsSb6GsoarFErbYnftB1rVh+WUr1mQuskl+W
-zsYRrONXjB+5uhubwlzAzM2/rSO8/8L2t3c7xqIzZCIqEITinQLQ6ENuSPVdC5+9eltcaZtXf0jO
-YDzA0AJdo29hwNTp9mGL7Zf9pWpFGkVWEtfiBQCqh3FI6JZTIG5oqaLDl/ha3AsDpxXkKHf1bv0n
-Uju8qu7VUc1wmx0jdvaCMpTZsUh0siSDL/vgaz6v45GSPv6gUKn3yrkgK/FPln70fgQUlByp4eul
-e8JaKyAs+LKDflKYvGo145TufiY+USun0nq7fDtnsYi1/9j4V8IJ4CZF0Xf2Qx+aEOiWOfYY8517
-O0gAbyhzIgIGgZMZBOZKDsQLVdYGUA6J82ijT4xg8x73jtVQ7bF33L/hcjsZQZs3u2CWX1o4Y0Bo
-3wFkjta9Gx69bSo+3YL0i2XscD5JsO3vPKDGOEcbD4UwACtW7J+tLU1crJqc7uZKDxkXBrj0UY81
-9Yjv9KSJPQOj7ZKdmRcHhWzTYW+FJAsUJv8G4b2SMKiIW9Iy6CvmWTibE2phOk87lU+W6OxPDgsQ
-Um8s9efWJMYBDFsfvR8C4rwuFgoyGkKSQUTBOEs/ijgf5rgu3v1aHCT5XJ1mdpcB149A0uczqF07
-OFVGrLac5Bsgl9ihYc62JrwLZkEo7Ne7uTvx5uTv4yvpyeaIPDErqXrJ5KfNZblJugP8vX0TIf9p
-QNRPmZU+sfap+zoUC4x5rnYzVH608RS4QLbV05NI1z+VHJz4nIw2z5GOSVYl2p7Hv8+EZXHBXhln
-nucyjyeqg6Ch7/N8JQ72i4bw2aF6XYTFohDeMQbqWzcwhp7/yAzNOQmvLOKjGp5mmUVqE+dcvcwG
-CIe95Slx6noW6QS5upEA6QjNXm3mmLEsllNZE+u9ZQ2y+heL6wOUaBOihIGvdQU9yWNnUbCDdRge
-gA/v9yxZHtV6PR5KaCl7Y8NJn3eNVCPO0JgLLQ/IM9ZJ+QjtTUbjZBn8M8bUwa/+nAE8JSYhXHa9
-ABoWhfv8LRv0Zejh7tQhp3uvnLKs7ZwBFlBdxNxLH4amHXGQmK63bZ5KqeT5/M1tra3FX3TIyQ+s
-lnQmvFs62NF7GKCn2X+5bGy76tFkhueSXRbHn92/6G8jXcmY5nTyCZ5zSgb4uLRLCHp6yQ8jFXC8
-AYpuGjfa1VzHstfJSeQbXPlrnKLCpzR82LcapcNjTmtaPuzyNSnHTOtU+lytMOugV4aovTN0/hrh
-RccaTq/qIBr7TEta38FIilkhvKhDgZUuQwOiiNQxC1Ycjv0aUddAAuyYYiBFhLFiP8o0ZTR+A/ev
-2l3sbOqMaygWTPV3iesCL9zOwNzpmBnySzBb/AyInRa3feByfxvqIqpBOMRm979oI/+O576WFmcY
-84ZwKt3N+5Do5m/QGyj7/ecMrH1EJhAMq3RiPKxJklTnDLn/Yc0zApDq8/h8BWWBntXwRwdMvR5I
-x27vzNzz66Z7XIwkggobl000udCFVbS3Y9Ww2AnO8t1ln7zHcUox0AxcEzh2h++JKSvqZBwJ8QeP
-Rf45V7U5PsyAvvyAYdH2HMcO4TOtLS96ohlOZ2IBwKAAHa1vTnHruAKjkzgYTa20V2u94qDxdJXs
-75bb/sAfgl9KXntepj/5JaVGb1Lj4vhlmNRKH4yJlqecrjUeGanntZ7yMDRnPyfGD7t9L3vy+0X2
-+sOFB8P1odvwn5UnwAdrh6kn6f4ODsNx3+GmxezaXFFgn+e+CCt8GtZtAu47UFyLuktqwyZP/Yf9
-9/g0zdYVf0GtGJgaNIz2ImGdVSrS0ywi47lneP+6guGU3adWBZI7m1k1APJBlg7buM4YmvFd98sV
-PM3HLNQeRgv2BKV/6mdHgh4NOkt6tQR4g+ihSQvrbGGc9Kdo+D3a2qNusipGia3nps+Ww7FVAlSW
-coDI6H1qj3acZ6yhzIp06zx5U4HEGMKSchNsNq9gV330iQgaTA2ayv+D1kfvQt/yfvhn5621C1B0
-mke8aZZ/uzQZHnzrksx+BNNv/YWCk8y8H3S5qLAxIBHxvpByTlb7KDyNu0i0vefg7QN1cV71rVwg
-f1MBLAsFmSeGVPRr/qJn3nnP/ZjN8xJIkwj3HqoIo8yK0jWx27mXaFZxpML1StAnQIkOhcw8lz7C
-YplNrIS5C4DDqCXmlS/VvdcROjDBa6yxiTD/xjjIZjLLXlMh35Qu9F+bgkdOjRny22Jpx5nqhf6w
-QbqDlKRtw1t2Dwx8AANytlCurNaplj5iTNZBBwSLfpj/Yghm93cQ2eIYfIekwF0EcBWA+i4BaDyV
-xuNJavYite+F8lRk0NukrgDMullQq5Qg/EqUIcFrtIqabZzcHoxMcD7f8Ox0sBBUi1UygF7yLbvr
-Qb6lxzd5lWI7vtO6ckSVUj3Wr800bKVL4jWaQOu8yhyP896Wwf36C4LPmQg6PGkD8YjGUu7fBzeP
-wHMY3tq4uR1mGPhPdGi2JugYdroptNevUJ+tpw4Vc18gbfVobaAzmaK615us9Cc8xtVgLY29UAs9
-qN0VMLESTVbWgKKU/mSv63FQx3+02Alp6nPaflN0kL9CkmQ5KVBJRL4m97CaS1i0iFIWsy+HuM3K
-vjxQTd5AHKYTPCdIJC8jw6ELTZxfHPm5WiPU1irMQeivyka6VelqdZ+//23gmSHao9KRLwMi/M89
-WrGCwrgI2RirLEONpXHJ3unO8pdu4lt3MqWYh0BJnuUgDnW6l2v8L5QTPzq21ey0zs2fOcZ0eej5
-soG31FRYheLCOHjKpWun3v/QOnkMIQFhwvuztFYNCeG3+pvJOjxfqSIxdp/7JeKXRkpAnnS2X/Gz
-nx6Uz738M93I74dUCLIaRJFeURisV6Yrwe7ybgxdHLmI/5/PbC+NStfBCvmVHZgP8QSl42LNPEE2
-J0tOksU0cai1eOldVaQK9jPJ1/qsI1O0B9HOZw2evcfplPQz4TyD1EZmhdymmW4ENqLD89MlWG5t
-v3dIchQKjd8UiFTW7X+hMoXmY7hJkEFBwRMSPIQC3X20HMgR872rahCAariO4Oue/HTzcg7DO6GA
-Dz5FszH8YLliplrvqg+LLIYY8n0EVi9y5NTT8kbeB0Eq7T1Xh8oLSAsH9wAWIIFik5PstFdXGhZb
-bSlRTmPrC4n01S4J8zwrsVESifv2jcTZUzOixIMLxIi57FHQO+Ktt2R6V/nheXWLSGOg/DHsglV8
-pq1ZOqhuDA8nxQn95PZb7Pn7WtZ/CDlIGaaMebv66BmYNDi9cug4h2KQ3GqGk0rBHgcVoiWUv2CW
-h7nn3tG7AfACVG5HBnx3x2QPYditgG2zRSvqvk+dI3VS8UK6I5WMtPV6gc0ZGByOw5y84WfQvvjy
-2jW6TfVaqt0Y9ZISh6d+rju5VsiGOXUSMd4K0Wy/twf+vpT0xLJvnTqgJUiGlpYWRMcd70uUb1R/
-c7Sp0MrU43KNejPwyY4QbdAfFefrflQrNfjmegBWWIBqnUhCzCYniUvd7q6mFQrTSg3TksT1yCir
-/berSwg2XVyR50esDk8RO8V8HbNORsRi0A0woyOUJVbSiPtmt3ZL8X5kIlNHonPZCV+He/SBjZvR
-n8454Fv9TcWC957pNX4Itoi+wnWB4Bfqtqa1i9swbAEy9e62ps3tv6vGPMAIA2Ll5swRfsMn6nNf
-sWmPhUEghLI/mjR+o1L7frFEedqsNNBFv12R75ExHgW8MprlpJi/H+FUmI8d7KIeKfZ5nnbCm8b6
-3DNNqiegOurQ3cbE8DAHrrV2WAUQaHTdZSHT5dqC1QnE5DDwkebEKW+Hwa0GQJO3Bv2uLlRJhGHd
-mN3eHd4pNdDk686/SuoCzznwAxt6Tx6HfbZAnOwjQkba/jK3iNKnkXAkX3We0VT/R39xXov/3JA9
-q94KzmpRSch8OD/hOYw3pWksA5KI/qPcqTkDwoufFZ1C8iYAZASBCZN4uzRkbf59BYOBk7qpSofe
-A/Q07hpBHHNd4QnPGNIr0XMZWILmAIo9L5YhTg1RVx4gC/eS41xwZgGjN8jwas8MTowLw5BGovSr
-sRVcOJl1Vn+PH+L6csCEpPLpiY3P4f5XRoJbX0RT7+J2JENQ9HWozAuG+aftX7M4r5gsEVvFHvyJ
-qoHAxKVzQcRnovAr2iJNWSBgjbkegtQXZsPifCadIqbklZJnGAkO4i9sFgsb6yCuML8PkmPZzUFZ
-ej+xRtIL1szs7Sc69d15lwiDko8wLEXBpxXWM/pnugU6T/1b+XQ1CRm2Lq9nlSGEUN9Wh0g0cfUd
-/vy1Q7NzNMSIcRy04gZ/josXEU0DySL6i9APEPmtmVtg3XKqBP7lPJ+BJ8kh6KYRFXnA5mjXnn5x
-Tu1q36/H7F8zrw9TPMaUilnmavHTQEqYR3D7zP966LUJacf/djAkG0/+TYzIP8zoYCJ8VGBFWyu/
-KgWuKeKMT0Hnxxw8c32zujPzJjBOmPmfL93Rlu+FtFjpb2BJrtihQiw2lgiEMeOiQ2rq/i+xHrM0
-SNDiVLiw0A9OB9LJ4kzjbCtq9j1zxSjuy1T8+srPlmRmAqp8L8wcMR6Se/6/gGW/ktfLRo/A1AdO
-AalOK3qjHGk+3EGNuDXAIzHxKvQwHSw6NrR8xUP7swLBFTWHj1CcTSfUY5sJDMblErjdMfG/LiTk
-ikmT8GtPCAEhj6/oWbR4x5kTHPaz861PCI2m42V9DHkp7BHCIzhA9mYjCjYGjTunEgYU2Orpw9yN
-9QWcwOoEhcTxr6dqyowxhnRps8+XZ80PS4lTLV5HqaGA0mn5QMduM1XUsNqccvM0tEymtoSDaDYm
-r3BMavLC0UhNiFCpd1GJCdIttWEA4SmW8BJfV1pFLkiHDnjzJN0bLwOCbNZO1nJxeEkiSqDste6U
-nIkCie5tuOJT1f68g7QvCc2QylVchHyjvgUbGeCwtKp7jlNNzHmbKOTx+A+HHFMAUKOwYMou4ZCW
-6F0Jrmd62rWZavwLBQPvl3LonVjlyGUnze0vSymKNx9JAzyPR/A/OuITbAPU+0mtrFx4GgOqMzFd
-U3NQBX2dzWFF2WpjVNsjKZ/qFWE4xpw1M9KUtE9YR9rXuoyeTe/ig5uDpRKIkEDk/e6ALN06uJ+6
-vmfMnWfum4teA6C6pab/poH/9bDQ0D9LcaTTnhS9gSS1V8fWZG9CcSun22KazENRaNRnrK3wtfT9
-K9SB354nfhvKnkYDxAaBugmJP59XY7QLSmSbpJf7Mq6A3xIdvSArkiHiI+JNZfyTgceqHBqiVW3E
-lSCLMyIJsrOP5xNJkL4ksx6CHodK5TjlUEvnRu0GJIZFHJC1EfF/2D/0Uqqiv0tb6WR5jYu5yl02
-oASkGZ8mfTOR1FQXxDJ+xRReExTLtcjthaYSIpER9gKbPNBK794WuliGtOCf4cMxr8KnV4gJYJlb
-Ifu/bI0/987MOj7+A1cBgO4QsJclaRMcZmUB/6ymwHWBUs60auCJUng3/dRneYK7ZFAvfREHC3xM
-6nyD3ap33HbxewSCfNbVttaThlyrhHXk6Bs1yk4UaSTWH7R6Nzv8kyzEdJuWnbQuu+yr78X1RE8z
-dW/xaZ2uMpbtTVycMjtSOP7wjknD+pqolEsCagiv/dxpQOH9Y3ze7H/pIDTF5kZ31GJetgFG9JuV
-fEww8/CB51ZRLf6uDRiYQ04qdQBuQlQ7d3QRrfPGSdAzNRG+xY3fB5vp696lca5fZCD0oOCVyGul
-G1h7vq8apf0X47zHxZrnFTbh3wYlk5DJkrNlxVsLMTw1Dd6N8gMJ5AVWN+zGWcVH4i3zWjdIy5DJ
-n1wgInArvhsBhT1IK6wjtRPEY+ReGNFWIHr+VMUJQWJXOYPE25Fl4EKMaACk+mPRKw1bX2f6xweu
-10IS2qwKqBDJodbdlDyPiwRMRYWDth+4aR0UK9yjbHG+GrPI4P2/GQeFKd7/ISnX+OP3LHgs424v
-/AuOxi8e2HjkynglWXUYwvGCEV3MyTwaJiLumc919RmbGsFINHUXt7f3mUHS/x5fOAOTABm6kSkW
-rSIsysvJslA3SdCjfQ6mYSeklCX1i8XarMedXr2GcMtM62xACdZi2PvrS1PtWUt5k0hgvLf06P3F
-m9hEeMp0wqpQPKfyNsKMyVzwG7v3XR90NAnmBqcO0Mu7BI9Cpoi02EqD19dw89MymIyIUvSXNx/0
-WVTLnDWxNgVGWLoMzFgXpUPucGQy+D0+9ncYABufCPPfQLjtGd2cVk8TPRtfaCrarLfDI6WKCve5
-7IH+BD43+UNKfyNiFQSMS/vQbTgsJ8i5HzP7mhSHGY/saoUpQ4ccrs6liW8XPBm18/5HGfBZR4QH
-Nt3eT5iTc3NU6Y1rkn8hxnZ/e6IYwFhqGCWF2GdTiR6/EtMIl7w0T+poazf84PooCGizgi8U+wQD
-chfC97VPhSyeAHOleLjcmPBU7snK8PusFmd/AqIaU1+HaMJ26YkI1YhjZrMtQKlJFgpeGM/ZSKRI
-2UMz5I7e4wwr+8zhtB6Oyas/GsNjiUBpInlYryCZaIIKajKZaDrpJCZEHEIyxXfrbfBrnPcTusGX
-3CnJse3vdqU0cktPy2k0tqMRqiIIizhvCfwj52+hvoAP4uQqgsr4b8/grK2k1TUmsGelVEuHowTd
-dW0xMhaNRYVcJIwWl4pKDHXcSBljgPOgH46lKO0BaKH4iCDlESTxKNWjIaMMMgXrLszDHNUbuBfD
-8sN39av8t+P0z6OZHGN+Yz2mHF3CsQZfz4KrbcBltOuGrL3OfivPheBYXv5/OsSPMYmvnXXPhjqa
-tkIIdvaQJjJx1ktuGKwkyYpHofswtXbqj9YHwyweMmB7sN0ZlOYw3Z//mwyNJMzg/VVPVjLiBbgP
-BVv4GBcdnGsM6DIeGNt+Wd7rJqicOG0vcPmsBQ/vde3+gyYli5wEneLB8AAwQEtcE0==
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: group
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_group' ) ) {
+  class HCF_Field_group extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args = wp_parse_args( $this->field, array(
+        'max'                       => 0,
+        'min'                       => 0,
+        'fields'                    => array(),
+        'button_title'              => esc_html__( 'Add New', 'hcf' ),
+        'accordion_title_prefix'    => '',
+        'accordion_title_number'    => false,
+        'accordion_title_auto'      => true,
+        'accordion_title_by'        => array(),
+        'accordion_title_by_prefix' => ' ',
+      ) );
+
+      $title_prefix    = ( ! empty( $args['accordion_title_prefix'] ) ) ? $args['accordion_title_prefix'] : '';
+      $title_number    = ( ! empty( $args['accordion_title_number'] ) ) ? true : false;
+      $title_auto      = ( ! empty( $args['accordion_title_auto'] ) ) ? true : false;
+      $title_first     = ( isset( $this->field['fields'][0]['id'] ) ) ? $this->field['fields'][0]['id'] : $this->field['fields'][1]['id'];
+      $title_by        = ( is_array( $args['accordion_title_by'] ) ) ? $args['accordion_title_by'] : (array) $args['accordion_title_by'];
+      $title_by        = ( empty( $title_by ) ) ? array( $title_first ) : $title_by;
+      $title_by_prefix = ( ! empty( $args['accordion_title_by_prefix'] ) ) ? $args['accordion_title_by_prefix'] : '';
+
+      if ( preg_match( '/'. preg_quote( '['. $this->field['id'] .']' ) .'/', $this->unique ) ) {
+
+        echo '<div class="hcf-notice hcf-notice-danger">'. esc_html__( 'Error: Field ID conflict.', 'hcf' ) .'</div>';
+
+      } else {
+
+        echo $this->field_before();
+
+        echo '<div class="hcf-cloneable-item hcf-cloneable-hidden" data-depend-id="'. esc_attr( $this->field['id'] ) .'">';
+
+          echo '<div class="hcf-cloneable-helper">';
+          echo '<i class="hcf-cloneable-sort fas fa-arrows-alt"></i>';
+          echo '<i class="hcf-cloneable-clone far fa-clone"></i>';
+          echo '<i class="hcf-cloneable-remove hcf-confirm fas fa-times" data-confirm="'. esc_html__( 'Are you sure to delete this item?', 'hcf' ) .'"></i>';
+          echo '</div>';
+
+          echo '<h4 class="hcf-cloneable-title">';
+          echo '<span class="hcf-cloneable-text">';
+          echo ( $title_number ) ? '<span class="hcf-cloneable-title-number"></span>' : '';
+          echo ( $title_prefix ) ? '<span class="hcf-cloneable-title-prefix">'. esc_attr( $title_prefix ) .'</span>' : '';
+          echo ( $title_auto ) ? '<span class="hcf-cloneable-value"><span class="hcf-cloneable-placeholder"></span></span>' : '';
+          echo '</span>';
+          echo '</h4>';
+
+          echo '<div class="hcf-cloneable-content">';
+          foreach ( $this->field['fields'] as $field ) {
+
+            $field_default = ( isset( $field['default'] ) ) ? $field['default'] : '';
+            $field_unique  = ( ! empty( $this->unique ) ) ? $this->unique .'['. $this->field['id'] .'][0]' : $this->field['id'] .'[0]';
+
+            HCF::field( $field, $field_default, '___'. $field_unique, 'field/group' );
+
+          }
+          echo '</div>';
+
+        echo '</div>';
+
+        echo '<div class="hcf-cloneable-wrapper hcf-data-wrapper" data-title-by="'. esc_attr( json_encode( $title_by ) ) .'" data-title-by-prefix="'. esc_attr( $title_by_prefix ) .'" data-title-number="'. esc_attr( $title_number ) .'" data-field-id="['. esc_attr( $this->field['id'] ) .']" data-max="'. esc_attr( $args['max'] ) .'" data-min="'. esc_attr( $args['min'] ) .'">';
+
+        if ( ! empty( $this->value ) ) {
+
+          $num = 0;
+
+          foreach ( $this->value as $value ) {
+
+            $title = '';
+
+            if ( ! empty( $title_by ) ) {
+
+              $titles = array();
+
+              foreach ( $title_by as $title_key ) {
+                if ( isset( $value[ $title_key ] ) ) {
+                  $titles[] = $value[ $title_key ];
+                }
+              }
+
+              $title = join( $title_by_prefix, $titles );
+
+            }
+
+            $title = ( is_array( $title ) ) ? reset( $title ) : $title;
+
+            echo '<div class="hcf-cloneable-item">';
+
+              echo '<div class="hcf-cloneable-helper">';
+              echo '<i class="hcf-cloneable-sort fas fa-arrows-alt"></i>';
+              echo '<i class="hcf-cloneable-clone far fa-clone"></i>';
+              echo '<i class="hcf-cloneable-remove hcf-confirm fas fa-times" data-confirm="'. esc_html__( 'Are you sure to delete this item?', 'hcf' ) .'"></i>';
+              echo '</div>';
+
+              echo '<h4 class="hcf-cloneable-title">';
+              echo '<span class="hcf-cloneable-text">';
+              echo ( $title_number ) ? '<span class="hcf-cloneable-title-number">'. esc_attr( $num+1 ) .'.</span>' : '';
+              echo ( $title_prefix ) ? '<span class="hcf-cloneable-title-prefix">'. esc_attr( $title_prefix ) .'</span>' : '';
+              echo ( $title_auto ) ? '<span class="hcf-cloneable-value">' . esc_attr( $title ) .'</span>' : '';
+              echo '</span>';
+              echo '</h4>';
+
+              echo '<div class="hcf-cloneable-content">';
+
+              foreach ( $this->field['fields'] as $field ) {
+
+                $field_unique = ( ! empty( $this->unique ) ) ? $this->unique .'['. $this->field['id'] .']['. $num .']' : $this->field['id'] .'['. $num .']';
+                $field_value  = ( isset( $field['id'] ) && isset( $value[$field['id']] ) ) ? $value[$field['id']] : '';
+
+                HCF::field( $field, $field_value, $field_unique, 'field/group' );
+
+              }
+
+              echo '</div>';
+
+            echo '</div>';
+
+            $num++;
+
+          }
+
+        }
+
+        echo '</div>';
+
+        echo '<div class="hcf-cloneable-alert hcf-cloneable-max">'. esc_html__( 'You cannot add more.', 'hcf' ) .'</div>';
+        echo '<div class="hcf-cloneable-alert hcf-cloneable-min">'. esc_html__( 'You cannot remove more.', 'hcf' ) .'</div>';
+        echo '<a href="#" class="button button-primary hcf-cloneable-add">'. $args['button_title'] .'</a>';
+
+        echo $this->field_after();
+
+      }
+
+    }
+
+    public function enqueue() {
+
+      if ( ! wp_script_is( 'jquery-ui-accordion' ) ) {
+        wp_enqueue_script( 'jquery-ui-accordion' );
+      }
+
+      if ( ! wp_script_is( 'jquery-ui-sortable' ) ) {
+        wp_enqueue_script( 'jquery-ui-sortable' );
+      }
+
+    }
+
+  }
+}

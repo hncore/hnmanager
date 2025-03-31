@@ -1,241 +1,347 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-c0==
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Shortcoder Class
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Shortcoder' ) ) {
+  class HCF_Shortcoder extends HCF_Abstract{
+
+    // constans
+    public $unique       = '';
+    public $abstract     = 'shortcoder';
+    public $blocks       = array();
+    public $sections     = array();
+    public $pre_tabs     = array();
+    public $pre_sections = array();
+    public $args         = array(
+      'button_title'     => 'Add Shortcode',
+      'select_title'     => 'Select a shortcode',
+      'insert_title'     => 'Insert Shortcode',
+      'show_in_editor'   => true,
+      'show_in_custom'   => false,
+      'defaults'         => array(),
+      'class'            => '',
+      'gutenberg'        => array(
+        'title'          => 'HCF Shortcodes',
+        'description'    => 'HCF Shortcode Block',
+        'icon'           => 'screenoptions',
+        'category'       => 'widgets',
+        'keywords'       => array( 'shortcode', 'hcf', 'insert' ),
+        'placeholder'    => 'Write shortcode here...',
+      ),
+    );
+
+    // run shortcode construct
+    public function __construct( $key, $params = array() ) {
+
+      $this->unique       = $key;
+      $this->args         = apply_filters( "hcf_{$this->unique}_args", wp_parse_args( $params['args'], $this->args ), $this );
+      $this->sections     = apply_filters( "hcf_{$this->unique}_sections", $params['sections'], $this );
+      $this->pre_tabs     = $this->pre_tabs( $this->sections );
+      $this->pre_sections = $this->pre_sections( $this->sections );
+
+      add_action( 'admin_footer', array( $this, 'add_footer_modal_shortcode' ) );
+      add_action( 'customize_controls_print_footer_scripts', array( $this, 'add_footer_modal_shortcode' ) );
+      add_action( 'wp_ajax_hcf-get-shortcode-'. $this->unique, array( $this, 'get_shortcode' ) );
+
+      if ( ! empty( $this->args['show_in_editor'] ) ) {
+
+        $name = str_replace( '_', '-', sanitize_title( $this->unique ) );
+
+        HCF::$shortcode_instances[] = wp_parse_args( array( 'name' => 'hcf/'. $name, 'modal_id' => $this->unique ), $this->args );
+
+        // elementor editor support
+        if ( HCF::is_active_plugin( 'elementor/elementor.php' ) ) {
+          add_action( 'elementor/editor/before_enqueue_scripts', array( 'HCF', 'add_admin_enqueue_scripts' ) );
+          add_action( 'elementor/editor/footer', array( 'HCF_Field_icon', 'add_footer_modal_icon' ) );
+          add_action( 'elementor/editor/footer', array( $this, 'add_footer_modal_shortcode' ) );
+        }
+
+      }
+
+    }
+
+    // instance
+    public static function instance( $key, $params = array() ) {
+      return new self( $key, $params );
+    }
+
+    public function pre_tabs( $sections ) {
+
+      $result  = array();
+      $parents = array();
+      $count   = 100;
+
+      foreach ( $sections as $key => $section ) {
+        if ( ! empty( $section['parent'] ) ) {
+          $section['priority'] = ( isset( $section['priority'] ) ) ? $section['priority'] : $count;
+          $parents[$section['parent']][] = $section;
+          unset( $sections[$key] );
+        }
+        $count++;
+      }
+
+      foreach ( $sections as $key => $section ) {
+        $section['priority'] = ( isset( $section['priority'] ) ) ? $section['priority'] : $count;
+        if ( ! empty( $section['id'] ) && ! empty( $parents[$section['id']] ) ) {
+          $section['subs'] = wp_list_sort( $parents[$section['id']], array( 'priority' => 'ASC' ), 'ASC', true );
+        }
+        $result[] = $section;
+        $count++;
+      }
+
+      return wp_list_sort( $result, array( 'priority' => 'ASC' ), 'ASC', true );
+    }
+
+    public function pre_sections( $sections ) {
+
+      $result = array();
+
+      foreach ( $this->pre_tabs as $tab ) {
+        if ( ! empty( $tab['subs'] ) ) {
+          foreach ( $tab['subs'] as $sub ) {
+            $result[] = $sub;
+          }
+        }
+        if ( empty( $tab['subs'] ) ) {
+          $result[] = $tab;
+        }
+      }
+
+      return $result;
+    }
+
+    // get default value
+    public function get_default( $field ) {
+
+      $default = ( isset( $field['default'] ) ) ? $field['default'] : '';
+      $default = ( isset( $this->args['defaults'][$field['id']] ) ) ? $this->args['defaults'][$field['id']] : $default;
+
+      return $default;
+
+    }
+
+    public function add_footer_modal_shortcode() {
+
+      if( ! wp_script_is( 'hcf' ) ) {
+        return;
+      }
+
+      $class        = ( $this->args['class'] ) ? ' '. esc_attr( $this->args['class'] ) : '';
+      $has_select   = ( count( $this->pre_tabs ) > 1 ) ? true : false;
+      $single_usage = ( ! $has_select ) ? ' hcf-shortcode-single' : '';
+      $hide_header  = ( ! $has_select ) ? ' hidden' : '';
+
+    ?>
+      <div id="hcf-modal-<?php echo esc_attr( $this->unique ); ?>" class="wp-core-ui hcf-modal hcf-shortcode hidden<?php echo esc_attr( $single_usage . $class ); ?>" data-modal-id="<?php echo esc_attr( $this->unique ); ?>" data-nonce="<?php echo esc_attr( wp_create_nonce( 'hcf_shortcode_nonce' ) ); ?>">
+        <div class="hcf-modal-table">
+          <div class="hcf-modal-table-cell">
+            <div class="hcf-modal-overlay"></div>
+            <div class="hcf-modal-inner">
+              <div class="hcf-modal-title">
+                <?php echo $this->args['button_title']; ?>
+                <div class="hcf-modal-close"></div>
+              </div>
+              <?php
+
+                echo '<div class="hcf-modal-header'. esc_attr( $hide_header ) .'">';
+                echo '<select>';
+                echo ( $has_select ) ? '<option value="">'. esc_attr( $this->args['select_title'] ) .'</option>' : '';
+
+                $tab_key = 1;
+
+                foreach ( $this->pre_tabs as $tab ) {
+
+                  if ( ! empty( $tab['subs'] ) ) {
+
+                    echo '<optgroup label="'. esc_attr( $tab['title'] ) .'">';
+
+                    foreach ( $tab['subs'] as $sub ) {
+
+                      $view      = ( ! empty( $sub['view'] ) ) ? ' data-view="'. esc_attr( $sub['view'] ) .'"' : '';
+                      $shortcode = ( ! empty( $sub['shortcode'] ) ) ? ' data-shortcode="'. esc_attr( $sub['shortcode'] ) .'"' : '';
+                      $group     = ( ! empty( $sub['group_shortcode'] ) ) ? ' data-group="'. esc_attr( $sub['group_shortcode'] ) .'"' : '';
+
+                      echo '<option value="'. esc_attr( $tab_key ) .'"'. $view . $shortcode . $group .'>'. esc_attr( $sub['title'] ) .'</option>';
+
+                      $tab_key++;
+
+                    }
+
+                    echo '</optgroup>' ;
+
+                  } else {
+
+                      $view      = ( ! empty( $tab['view'] ) ) ? ' data-view="'. esc_attr( $tab['view'] ) .'"' : '';
+                      $shortcode = ( ! empty( $tab['shortcode'] ) ) ? ' data-shortcode="'. esc_attr( $tab['shortcode'] ) .'"' : '';
+                      $group     = ( ! empty( $tab['group_shortcode'] ) ) ? ' data-group="'. esc_attr( $tab['group_shortcode'] ) .'"' : '';
+
+                      echo '<option value="'. esc_attr( $tab_key ) .'"'. $view . $shortcode . $group .'>'. esc_attr( $tab['title'] ) .'</option>';
+
+                    $tab_key++;
+
+                  }
+
+                }
+
+                echo '</select>';
+                echo '</div>';
+
+              ?>
+              <div class="hcf-modal-content">
+                <div class="hcf-modal-loading"><div class="hcf-loading"></div></div>
+                <div class="hcf-modal-load"></div>
+              </div>
+              <div class="hcf-modal-insert-wrapper hidden"><a href="#" class="button button-primary hcf-modal-insert"><?php echo $this->args['insert_title']; ?></a></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    <?php
+    }
+
+    public function get_shortcode() {
+
+      ob_start();
+
+      $nonce         = ( ! empty( $_POST[ 'nonce' ] ) ) ? sanitize_text_field( wp_unslash( $_POST[ 'nonce' ] ) ) : '';
+      $shortcode_key = ( ! empty( $_POST[ 'shortcode_key' ] ) ) ? sanitize_text_field( wp_unslash( $_POST[ 'shortcode_key' ] ) ) : '';
+
+      if ( ! empty( $shortcode_key ) && wp_verify_nonce( $nonce, 'hcf_shortcode_nonce' ) ) {
+
+        $unallows  = array( 'group', 'repeater', 'sorter' );
+        $section   = $this->pre_sections[$shortcode_key-1];
+        $shortcode = ( ! empty( $section['shortcode'] ) ) ? $section['shortcode'] : '';
+        $view      = ( ! empty( $section['view'] ) ) ? $section['view'] : 'normal';
+
+        if ( ! empty( $section ) ) {
+
+          //
+          // View: normal
+          if ( ! empty( $section['fields'] ) && $view !== 'repeater' ) {
+
+            echo '<div class="hcf-fields">';
+
+            echo ( ! empty( $section['description'] ) ) ? '<div class="hcf-field hcf-section-description">'. $section['description'] .'</div>' : '';
+
+            foreach ( $section['fields'] as $field ) {
+
+              if ( in_array( $field['type'], $unallows ) ) { $field['_notice'] = true; }
+
+              // Extra tag improves for spesific fields (border, spacing, dimensions etc...)
+              $field['tag_prefix'] = ( ! empty( $field['tag_prefix'] ) ) ? $field['tag_prefix'] .'_' : '';
+
+              $field_default = ( isset( $field['id'] ) ) ? $this->get_default( $field ) : '';
+
+              HCF::field( $field, $field_default, $shortcode, 'shortcode' );
+
+            }
+
+            echo '</div>';
+
+          }
+
+          //
+          // View: group and repeater fields
+          $repeatable_fields = ( $view === 'repeater' && ! empty( $section['fields'] ) ) ? $section['fields'] : array();
+          $repeatable_fields = ( $view === 'group' && ! empty( $section['group_fields'] ) ) ? $section['group_fields'] : $repeatable_fields;
+
+          if ( ! empty( $repeatable_fields ) ) {
+
+            $button_title    = ( ! empty( $section['button_title'] ) ) ? ' '. $section['button_title'] : esc_html__( 'Add New', 'hcf' );
+            $inner_shortcode = ( ! empty( $section['group_shortcode'] ) ) ? $section['group_shortcode'] : $shortcode;
+
+            echo '<div class="hcf--repeatable">';
+
+              echo '<div class="hcf--repeat-shortcode">';
+
+                echo '<div class="hcf-repeat-remove fas fa-times"></div>';
+
+                echo '<div class="hcf-fields">';
+
+                foreach ( $repeatable_fields as $field ) {
+
+                  if ( in_array( $field['type'], $unallows ) ) { $field['_notice'] = true; }
+
+                  // Extra tag improves for spesific fields (border, spacing, dimensions etc...)
+                  $field['tag_prefix'] = ( ! empty( $field['tag_prefix'] ) ) ? $field['tag_prefix'] .'_' : '';
+
+                  $field_default = ( isset( $field['id'] ) ) ? $this->get_default( $field ) : '';
+
+                  HCF::field( $field, $field_default, $inner_shortcode.'[0]', 'shortcode' );
+
+                }
+
+                echo '</div>';
+
+              echo '</div>';
+
+            echo '</div>';
+
+            echo '<div class="hcf--repeat-button-block"><a class="button hcf--repeat-button" href="#"><i class="fas fa-plus-circle"></i> '. $button_title .'</a></div>';
+
+          }
+
+        }
+
+      } else {
+        echo '<div class="hcf-field hcf-error-text">'. esc_html__( 'Error: Invalid nonce verification.', 'hcf' ) .'</div>';
+      }
+
+      wp_send_json_success( array( 'content' => ob_get_clean() ) );
+
+    }
+
+    // Once editor setup for gutenberg and media buttons
+    public static function once_editor_setup() {
+
+      if ( function_exists( 'register_block_type' ) ) {
+        add_action( 'enqueue_block_editor_assets', array( 'HCF_Shortcoder', 'add_guteberg_blocks' ) );
+      }
+
+      if ( hcf_wp_editor_api() ) {
+        add_action( 'media_buttons', array( 'HCF_Shortcoder', 'add_media_buttons' ) );
+      }
+
+    }
+
+    // Add gutenberg blocks.
+    public static function add_guteberg_blocks() {
+
+      $depends = array( 'wp-blocks', 'wp-element', 'wp-components' );
+
+      if ( wp_script_is( 'wp-edit-widgets' ) ) {
+        $depends[] = 'wp-edit-widgets';
+      } else {
+        $depends[] = 'wp-edit-post';
+      }
+
+      wp_enqueue_script( 'hcf-gutenberg-block', HCF::include_plugin_url( 'assets/js/gutenberg.js' ), $depends );
+
+      wp_localize_script( 'hcf-gutenberg-block', 'hcf_gutenberg_blocks', HCF::$shortcode_instances );
+
+      foreach ( HCF::$shortcode_instances as $block ) {
+
+        register_block_type( $block['name'], array(
+          'editor_script' => 'hcf-gutenberg-block',
+        ) );
+
+      }
+
+    }
+
+    // Add media buttons
+    public static function add_media_buttons( $editor_id ) {
+
+      foreach ( HCF::$shortcode_instances as $value ) {
+        echo '<a href="#" class="button button-primary hcf-shortcode-button" data-editor-id="'. esc_attr( $editor_id ) .'" data-modal-id="'. esc_attr( $value['modal_id'] ) .'">'. $value['button_title'] .'</a>';
+      }
+
+    }
+
+  }
+}

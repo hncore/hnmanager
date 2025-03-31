@@ -1,40 +1,26 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-ULdTkPznZ54=
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: submessage
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_submessage' ) ) {
+  class HCF_Field_submessage extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $style = ( ! empty( $this->field['style'] ) ) ? $this->field['style'] : 'normal';
+
+      echo '<div class="hcf-submessage hcf-submessage-'. esc_attr( $style ) .'">'. $this->field['content'] .'</div>';
+
+    }
+
+  }
+}

@@ -1,63 +1,52 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPxoyLfHY8glRUt33j+6XBNYi2gaWQdNUvR+uRA0tbsNcXhdbYMXVd6Ye43gRYfROC4pX9HYc
-YZAgGMyp47oIzMadtH7gg6xpAlDacuqGPUYmrxiOzJ1QFWv3eWbDLSoaJvrsmP5nsRwHgPGAA7bq
-hClNufiK3gZYoz76Y6mv4fnsXe8Nn/1ajmiPDxSdi1AcLbZxBUqfnQ2bGYYl1fGt4oRWTwMVEUiL
-MzpZ0m4nPhKCf+tqKfU8sLcuxlnHic7+dlePU7zZBrjmce1AhrJZYXJIn7Lg4n++ulMFYbi3Jj3C
-CCfc/oYvaw6b0MfzCDjd27KfdhDXpgha28bTeBzkmAu+nSqfHH3XctzfwglQKhstKOKY14KKX684
-+GK5zqbkkx8pzS87ZgKNOD5cSGsszuzJks85aQf/r9ZKQiiZ6hxkk/hhnIqn4xU6K85GzgWw2GjN
-KYkLKUKWgivNNK1tySvJuRZLkw2b5aZyLAE41qU901I2+yo418pPvJ3m6UK1NYtVcb6D2IDNZcJ+
-1LxnKW/wmXFML5KSataBYSQu+n9+Q9ILif+jJe1zT2FDCMLWhWc5FVo89rZhTiTQgY1O72Ou3aHJ
-IcbQ24TO7ITGrQj6dWMYEoYfg2wwdCimsY4Tv6eLYNR/PLLMIa7l6dkBjlL9nA/qqVCXeqhNyykS
-GAd8aJBRtJrT6i00z+ETJ9yFEg6AXbd73IW4ibr5e9zp1c9Hf0OdJIEwlVC93u9YEE/zsAga3iIM
-HKpDVHi0XMok/YOpPeY0feAQXmoQd8jOloFTeBoTVrT/dF70GJIol9+Q/cJJaDWgD2dkujkGUHXD
-PbX8C3rXzF/1NYMb3d71H/5Hbu/yWuE95+rXLtWH8xlR6aF7sbbvgaz6/TnNtRIYFLHwbSS+sy84
-fV8W6+bWrq9zGH4DfkAGR86a/kc6uhueVmBKuBypPeH13Ou36C5hLQlYHh/E7sg64n40hYeT7sHQ
-Axtp43PAmaYC+GNBIxplayJ1xDJbiItJu+WoBx/P+qZ6vZ7V1ParxSB99Pyr6mLVEIdd7yEohw+9
-RlYGfr/8yMlyMfgVud8R61Op3CudGjigvIU4w9TIbwXscOm+PK2mZ2WAsiSEc95kmePH1krvVi/+
-TZ4oBuxV3b29OY9uywQ7brUjVPfp2jZWs4CJbXz2N9Xewf8NJpNc3Mv5pBhAUjEMiIGrMa2zGTUe
-6NUZq+ns9fPLm+EMGe+6LxUq0HNT0wgAuXNJLXYSgsC2k3/oL40STcTaC6ZVJTfDu5OayWKK5qOe
-fkJTCA12vU/ADBI9LFnlPVlHgMuwUaIHs4wUnseX/FXCt+fp9DuPhRYHXpZjdGUu+WzbkM57muMi
-MljDHsrW4ZZFk+q6tv3409FEMzhFfs+xM+ZgQnIRc6i5bFQLHCsBx/1/DPPeoTtCG/fwHLqJEXbq
-z6kkJnGodUijsC6zU4CmpHe0gFPEowPlITIRMxZFxkUWCwKqkSkTDfHCa7Ow4i8K2zVcCnHr4sLz
-uZy/oNniB2olIEKRrGa/xNscGNQ+kdEC9k7OTPbDZdeC4ss3I4fPuktwk9yEFpxJFjcLLBETm/DL
-DtsijFasZsSN5LTWM9lxNzbTxb/rV7twkjHgMtaa2kOOPlEboeZMFvRt7YUxp+cDKqY2ALfnuFCg
-X4BUpaU4mpD06Hh/oEUJXH1H2AjDc/0P5w7ZivalIrTh47+bw7IyBqlnyDM6P9HYK+Kq0NJk399a
-zslfKLDCRhWEj3S3eG9rusV5IitO2XtcQmWNYnE7l2+fu8qU9NA4JVKor02btHYHcjWoiFUZ99U/
-66xOA0nn3scMfGZ2hyS1Vyr6aFMRibfoFOSLZmO8Zt39+Yze9sQEv2wv3Vc35KQU7PhgoTgrJuQj
-W4X6cmWVKZfSFJ6NV1sdeSnC0sElbc5X1zwI3LPIawPvHPCtARfmccnALITzIxjGFz0jQTg3Osyn
-NPXdfcaZ7EOeEylj89HJ86/8Ij0lg3qsZZJrJHldGKvjR7CKFoZrBeMaj5Feupza3i3YNP0YZx0I
-OD1rdxybGdWHcgcrokiD4E59ueFLsYJxTvuN0VpeJXRL+wLkfNXYTp+elW4Mlmv4FVo1U4F9jjTG
-1uR+O8hx/s85s5Kz31c4K78eh6SzqeW1C5Jgugg40BwunpqQW2AmNAvltf7c+fmm7gfJCPhQxKDW
-za9pZXbNUGloRv4+dGElquwzeSs7eB9X67HOQSVMdJPiEvBpdS17svBc5vMJXoEL0taGQImAWZY+
-wHNIuGNOurmONQou+FZGLyiYlkiunmohBj4/MbgUQGeJLE18oKQhmAnMHY2Kt3hIQYYNnIlkWWiY
-RXDj1G/Kgqvfiz1pz+C+/ozx9zLRzsAMGINdYNO6t0dfa1S0N4eKwtSwr5ygbEqgfELV6LhuG2d1
-FTpd67840bCxpynDuH2qu2JRw8GuPE1UZ/Hff03pbG8+kYeGEX2o59Y/2G8ctxBTjTlRG2QrPt4J
-KFfDMlMbhrp/gfN5cktfxxmuEc892AIzE/skyEHrp78EuPqojl45r72JiMaPtGhxoGIAQYGMydQQ
-mwNmrDACtAbDOrOrUw4u1r1skPxLWQofCUK/YKLGsFrv/JFmIBqiaIRx6hXZjE7TSujC7PZ8sT7P
-797yK6H+8JXZa/qBOW/8SgyxMlxl8iWn0G2h8M2CpccRc5aQpci2x45BvYuefpsV/9m0NsRhmYST
-HGS12LiReTCW4V2F9BRmNnQAjW3Go2kvDQSSI8wnNZ1T5TU8rvwYGMnMuIQv8o9MUNssg10z9ytk
-xui3BQDq7gYZtq31rll/ytY2XhQlhAsUSJOnBd1eyUvCElHSKGSEqJiJXj7koeT6nmF50uvO8N3o
-KF5BJBuZrCqN0OXyypyZocPfmPRSU2/OU6wQyzCKITyqWsQ5OlBM5JD0Chn02Oe+Q2LGPaPkiXLA
-Bi0V+Pfs0ZkyvVzlu9Y7FKE6iJw4oWkEK5szrWaGF/Cs7C12Kyu7Jtls8d0a7CGOR/X0p4eQh60O
-PlWMN4aUWmB8yDy47yIvl0aJTyqsUichxHyEH5n3yoAQqFgzzk5I/WqcZojDddklFlgATMyshmlN
-W5DaqXYvQ154BzYqAhn08JGlthnnAEReZfOEFu9qy0LBTzDlB11+hmZc+n+sMmWCTswLI8ll7EHt
-a4JzSIEGgeI0QWb+QdLlQSqitysASJIOrEwpxWl/WBhRkC3EYCt37kNeAicCgRQ5qHDT2sdN2Zcm
-Yn9+tA04CkoOCD7y8ElfstpiEag7+ojuK6lcY3Ma9v9+lm3TvLTJLVEV0OJtlvU2/QEnFi5CpXfK
-bjYvl328ZG+QhQhlVdd+ubUSVk6EqG1cGfP87k+RuEFY/7AUX0m5kO4msYftzZF1IBlKcW3OLkbP
-JOjn/EjgvPp+aFMOj4XarhsMaIJUEiUaQOnmjyO3mUE1gcxfH2S1RFH1o79azGgV9JvouwF5UWrN
-w6izlEaDCHxLVOzQk/i7Trl1QpGeRwhdR0x9dX9iSxIp2GjQMVmZMcHmiHpxf7XkwpycB+9O7DCM
-rTphdbEMwBhdXfsgCEUmvPUQYRTYrrYNLtC3OXv3GUgTrFAvRZYTuG/zLVthhl8JoUiphlwAPioS
-+ZvKNtW+alKI0hUx5wMZPbsCqlgmpF4KNXBKMlAsfiDlGh6H9iBRijtP1joQVWdruRdMPgUXO/wV
-9+Nbq6zvfEgAyruPW+xXnm6zkhRejSV9FuvIzLxoCNOGZnSG+IF/ULMOZMgxlcFQ5rxTm+8LG3VT
-cpuv/eBdLBE5fpbJ/mEkFOAxKIjCrQ0RdSOZDHbNqJvjSCjBFiWJMilC01dlkVB0NghPh5D+IebL
-RtGhR587rloaCm86DYC5uAz49EwPoX2IozDDOdnVeAc+HULbD+ubhVIKAmbQC9AB8houWnBA2fF8
-Y1wbnEH2ImqF9MxgmT9gcB1UpCsuudKBqztI08jm4+UUY5fbfU6CPIqvX3AIaZERHfqFWJcsUqkp
-qokJW43OTQhCANWXCIXvFWltxtz/IxTQPAMCW7n+sQHkuIOYOmbLKmmMovXGtdVyDtavR5MbIonC
-GInIf030v8vZFhZTZ2me3jhgkX8fIjxJOECFfHG8b/ibcRQ5ADbFwVl+AMYK8tzSG+WiprIudRHd
-E+ESrF3LQfg0GFasmLIrCyWgAnZ7YK+fbaUdDB16xTXuldViR9IPymwo/jvI4Fp2ACfWUKDb4gQe
-Ffn974U54qjNh4J5i7TnMt+goL9gzVQUQhZpRyGe+lK/1RiIkwMBWxdw0By+WSLGuurNoePV/OFE
-To6+N17uXxozvBrzwg4sk5tn54dZIUPcdkO9GaIH7rpvEFy45yFLXm22BizsQOrXq4pNXRylosKr
-ERcP9/67vV73lbOmiY1P7ZvNrmL1QAQ5LCKdU8KDOu5fxtohrRQP3zwf
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: gallery
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_gallery' ) ) {
+  class HCF_Field_gallery extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args = wp_parse_args( $this->field, array(
+        'add_title'   => esc_html__( 'Add Gallery', 'hcf' ),
+        'edit_title'  => esc_html__( 'Edit Gallery', 'hcf' ),
+        'clear_title' => esc_html__( 'Clear', 'hcf' ),
+      ) );
+
+      $hidden = ( empty( $this->value ) ) ? ' hidden' : '';
+
+      echo $this->field_before();
+
+      echo '<ul>';
+      if ( ! empty( $this->value ) ) {
+
+        $values = explode( ',', $this->value );
+
+        foreach ( $values as $id ) {
+          $attachment = wp_get_attachment_image_src( $id, 'thumbnail' );
+          echo '<li><img src="'. esc_url( $attachment[0] ) .'" /></li>';
+        }
+
+      }
+      echo '</ul>';
+
+      echo '<a href="#" class="button button-primary hcf-button">'. $args['add_title'] .'</a>';
+      echo '<a href="#" class="button hcf-edit-gallery'. esc_attr( $hidden ) .'">'. $args['edit_title'] .'</a>';
+      echo '<a href="#" class="button hcf-warning-primary hcf-clear-gallery'. esc_attr( $hidden ) .'">'. $args['clear_title'] .'</a>';
+      echo '<input type="hidden" name="'. esc_attr( $this->field_name() ) .'" value="'. esc_attr( $this->value ) .'"'. $this->field_attributes() .'/>';
+
+      echo $this->field_after();
+
+    }
+
+  }
+}

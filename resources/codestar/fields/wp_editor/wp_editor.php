@@ -1,79 +1,107 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cP+beO0V3+rWfcgVr9DMuedQdsBpUHVF9D9su0GqJBfpSYJzygUCv3KE0G5RAlDOU3TB2mB2Y
-LW1NltwDCcDU2EFSDShqtMYQtV5YeZdogMGzIb36V6uwtbDBQ1lT/5QQLK4LulxPQplvdbh40gIc
-+dgbzw1k2MxVmMJrt7VDh2f1Anaxpt9MwNQ4I0KX843gCIslX0ecXJDaCxG/Fl8PnuxIC67n8D5+
-QmHjvk7muICNoYiIiHeOQvApPYATU3gb2gZNU7zZBrjmce1AhrJZYXJInATeSO4+FLSD1nQA3EX6
-DSeIlqmgmu3EXcIn7ZqWO3PCdSOm4wlFm3haPRqIxemfkK8gcleV5/A6jEhJBwrSlUpShVx6xSeO
-ropSlUFX64iOSrcdilaiDd2VJy1ycB2nNxTCfaaJy8C1i5qWmCuv1h8eNghTMxLEbLzdK/E1ly7+
-WKCpO2VKuSTZpDRbsGdW+lrM/ADTYb7GU4tZfVT0wsraQbTwLzh7fLGcYIJb53R5L3gaWrmO72Tc
-DtsYfFs3soOFJk4uOXE3T0XIxK2yIE1saaOKFwSDgOGL206CJRKQgrriv48iG91Aj3rGQvLzjvaL
-xkwmABbXYyWVeAqaTC3Eh6OZcgiUFxQ+OEIWbl88bQPkt6B/lEu8OosDDSE0U7U+lvd96s2CxIet
-N9SZjz4DzM3YrzW7Z04Q7jW7lptWPCnpW//CWUMcqRFtduzzOrIdj3xkToOr9E3w9bkom7PKuFQi
-azMXVXra7vvZAkTYhj1rcD8Ol5VazemaihowdwcaZgK3Pp6qqdbu8m3VswzMCGyVhgAt5t0hLU10
-JClhfpwqFsD62AN1KASv7652unbRi7d4y1RsRHyfX0XEsiT0JS1EU5ZuWtMxSR8MpeuuUrW0IIcn
-yh/VUoyYm3JoYTQDN1kLLZDUZ35iejjJArCHSrnqhCA6bHQXfXCvvsekeaWGjbKSraka9Jy4PqZU
-ff0aqPP93V+0kObIg5OICALpBlsWdeT2hKz0/F2QnNLd/ZZtRy4sU21DQ/PHUKO3v0LZWQHf3SWi
-NLU52UN6NHWJ59zttqCI9wVLzHrNAaPiYFMPitO1TQ3HPE8ZXdmQnFsa+IG2xYbAaWkKIDeNrIsT
-oF6bgbdTC3GwV8vxWtmrvt6ohHhWwv+oJATgFMBbxSW1hCqWzxA/BQ7BW9kRBSxi3WxOIRxJNnh+
-U5ONCCHvJgT+VKFHZDUXRkvVcIuZXVSFveObZtoC3BMQYUoHUuFNA3rP8kcCOCiVLo4lJcG0AZBZ
-vpEMy3QP1szXsEdhJ3BjS5Dx4V2uZih8D7WGMquMhXG8yXHfMQFHDz58BmmiPEpX9nXFhMS4RZEj
-hIuCiTJiT9RCC1Ny/MIeuLUh1R9lrA8neDvvtHUvJSyzSQPJm6TdhqWPba/I29EXfI+LSGFEstCL
-FQMoLS9486Kv1kiuYGTfAst5k/6KeFycK9DoJ90z12VuC4ZNt964YVdV2wG+PD8rwpX8d7DaWq77
-PxU9va1vyWpAfYupUHCRQxJ1yU7oyEVNop7oPxhZsU00wUwVAWwhw/qUj9Fi1JZWc7fuNnFvYgt2
-9S2QMIsUPru52vO5P9ibwKiwAhVfbDgqQ6h2Kdi3iJKZ7yWjbZr3/f22fjUXR5mcfiJDyocjxuuu
-iwiIZvpDzweDpLJeOLCfyPjgWhT2YJrKc0ZaDeWwTSAUTFM6igAADkr/TADYeeFwysq+RMTU7hMJ
-8c7LNV9m6cxdbeb5LPZ+FNDWZkT4URJnxGGqVS16enyn/4/pt+sFujuEio1s7I+gxHAmNgwdoE6c
-O3GKlB+Ty+7Oa53sURnkQ9iNxlT4KAHRfuczYYVQ6rTOps171g17GywTjfeZqpUf7AJfoj6LfTsL
-oQTyOxmKQdaU8gRER0jHSY0bYG1ECXBrpyzScPyPgkV8iXY2wp7EAEQLhEaWKPOBagBG3dVhFPVA
-1tfU8VeaJpcdrMrRG9m4uHXQGw74Lv1wQ0jyCWP0OCQJInwrXX6+Zr2TuENtCV/mlXcrvIRFYcBi
-7xPGecA/RoQTSgue0izM6Scql3Y/x+4uASvmJuag9pSlhhMOzprqUuOOPgsdPSYFDB3vw8EL59Rp
-8lVO1L4i6UMJenctM9e32uVlOch9LTYFknABaKrpbn2yDf+Dwpev1qcg5riBl5F7vXmO+WdP0yH3
-PiEPJomMuDwfs51cuoXXFe5Up5INL0BhwJtsWWQb0YeB6HiY/hpIaXsK4QOR0PkVWeH7UEQ/sv7e
-S0CwWbGPekGlt8f0wKfvHk6XMBqg+XBipV6cvHllgzEkYLnC5yuJcrMJxSgCcL2AVhh0sLRmw+lp
-47J5ui2NJKViTFNQJsdSCC97/+uA8nsCXdgPmI9iOhcjdn/0bJO+IRoxkvNy3EnfSDr+7Vbi2hs5
-6G4Mf2R2xdCQ+Hb+4omA6uC45L9zXyI6G48OymS/PX6CzM1jSBNHpJeMm3qdqVxPv9QD+QaLy2Sq
-RM+6cvqls9eHMVJz084tSGeU8MsoHXdUFMnPw2O5Rd1EONJEMOGe7IN+SWdLzBiMYNiWeEvzyVwQ
-gh0jtO+B6KKH5D6tpFuNcI/vcAJbaBSATCB/DmaEs/jx9DP1Ah4ZSvKYAP8a0X/zI6dyQMQTeu45
-S7VMQ7hwYtpdvoqL5/HoT2BaS8stKgK+0RcriQlvTGosJ1NEQimXt+j6YHF93LHw0Ul3XMJtnWHP
-7EeKqG/ZDUAKCRaeV3zo4pls7Ep2RM4h1T/CEB4kYiq/Bc4XRaXxd8JABVoc9E6cyzRgQZ2X2DqR
-hGVS8eZNM6uiPW3R2jfNC0oxaJvRxB+p56928WZFHUug6R6303AVhHu7DdkPmjS9ITt4vDxgYKoK
-YqA4WsGbbN+YD9B6rYgC/3ITIALzweTGqCrBwHmDdWfeaXwEjdnCeX/E80raI7Vgfy82tk6Nn5b3
-xhHYsspv03LHLirlCqFddSWJ7aViZ4n7ZaMlN2x70WqYQQANQYxLHYUT1uyK19xERDV02AYNocAA
-BZ+OAJjz4Odc6tepYjRwmmoDLxrCB/+/1bRq0wYcOH/R1I6w+od61dhnI5cKY2BySRZJVW5rN8cQ
-zuXGrIupKP38IxEwc3+xBH58RcnVvgKuw8gvGlP+u4DKthRtD8iIqQK2eFBJOjJQ8o1V7oCD43up
-KL3tEls9gffDAWgoqd1IY/eRpUh8mBsXS9QF603x81NTHH7sKZX8b7PRnjLyK3ZBGMtN4DiTr8FS
-IzwVmyNEdjTfGM+nQHzhB780eDlp9FMAAD470TwGNWhDnI/HLQZAS2XyDtXAM1S+QsW1LytnjkBx
-v3V6L2lVJRbGuhMRCqu4edejBOLdV6aPoekxLc5BPZVELynax+u/MLgm9FLnYzjFWLyE/sqAVFo1
-r1ZtNXdZivUQIAc9MC9kZUXoEk/k7AufYu2PQwyH3aQdsyydvrfyPEVTAEjD8uvRBgJKOLTXIDj5
-RCzeEkLHhfgC0bNobVeYIgXe4D+4Z/IcK9nDo0DxCvd9Ij3aJSjS/8ZGjDfBG8veoXKsnHOX4xtR
-mnVLPafGDXNoHWfMPNvVgesOyGHfwcLaxDKDnEymQHW3BeYDVM7TCYL7hqcvXUlFAUn4nXrZr6Xu
-9wRRUM3UYYbm2imEPmJDhOoBAbpICsqfubU5APqhqVXAJooJwkb1DW9DDYiRFrgjAlGhanYDxCyv
-7hx0mF4DkWZYW2Q9QqZ3iUsyokVL0Gh/DHCIvnLqkRs9C8i6jhF+iPpmQMsEuyE/e1UlkER/Naor
-L9OIfT9CdaaCdvpO8MRj2cDkttKcZPNxPPpPLq1TUOME8bwgxnNYYXSwoyJHhyGvQGmdhCtmR9W5
-nJMAWDJPwUgv0ZULl9EP+kHS0n7lHvZAmbwowBpSk6pwV1ZOVE2ZHTfO1CDBah+zW1cGbS+Okt05
-dYa1Ui3gWLO+JiyM0LIf02QlQ/JTY4oypLNbbHus/YON2Hy+rZ8M59UYnggtTwZmV2Lx+45/vetf
-9wTWoIFtUc9LGsLvP0l9fiXa0Nsy8XYnZvhIHW04MpgpCVQW8L2Ysey8MPqYu3CVxy6zD2WrZSnK
-u+BHhhpi/ulW+khrahpyrpOweNHb2aBZSuO8XFLz+SF5KPXcb8rArbUlN5oAtP/ybK864kHa4eta
-tbztJjGzNMgiNqeXXB+QgOOzk8aRaIWL0/RbgFV1HXcUe1maj00JClEw0eoPUsID9tV36POwNBCK
-XH0nUX/w/HDXqWuWG+m66yLVnYu+36FkCkwZKizf8BFbvPfvfL8X5BiNZVQZAflsLjyGVg52XjGr
-oSBt+6TNVnInzBHe58jFLrhm3gooA9HbrZ/W3ko3CEybpXCls3F/OE09aX5Y68/D1RoYDAFHtQQb
-1dCeK3S4SVzhs2kmyvTf8F1wi+c9y9vWc603qcVpgLvXKBIkt8J9nBGe/XvR5aZHUCJuxbv8vms0
-TCIwFy/LUsNysHVBmUP1Ddy6oQOc29SLpF44pxkz87piWo5kxAqs9FsCgRenj1qb0f47aGM28OvL
-JJONw0ekRiH4X7MVcLG/fOLQrGDAW6syKRqijUMlA/U4fC3b/GCRbt10qyDf6y/T6PUM7QNPaN5L
-z2QR+Dex0wfJExkaS9Saruh42f8K/lx4d1zKZr2/U06eC+Ce9mcPnxbANQMGL4l4khfZ6Rr+Dd00
-0HlKQo3sPUSR0OCHMYoWXf4nGbLEWv/g4E/xBVjSlc91knEb8GMESNZJqmAU6zBhIb2rFUrF4ZDn
-2H8bYbP+lEjaQXCVZnNTtGHdOya4hYIRS3JmRXmf12j2sWIFpc6h9vAE0qLiGUOxMO/6VAwahk9P
-eCmtRVsHqr/1cFgfNcn5M6C8yG6XFeTv0S1zcpx6j4lHKBvbBLj0gID+z/nJdYDBfytPgEv8N5M3
-d4QJXYgztrW4eTuLG9TntYHZ+Qy+lon0qtQrkRHwKqPgvLTiZ2VrsbFAO33gPliAImLZJEtOBL/L
-RNJpMuj91yiiR7kIsu+xCnTcQHG7yrvHkHCCS8uD+K/x/o+5LI2duuyBMEkhXfcC51GqG3xwjkIH
-xWabLiiAIrFfTU233zdyI66VmeqiUDpIMseoQlKMS4mTT9CL0hMLQJQQ8w9x8AxoW4kRETWV9Rzw
-WYGew25xCtNL55yGW5FBWpijlK9YhN4rZLoEtPVSdPWuN0415rlpLnkhciiEBe+VMyK0+hizMtOM
-ySZDzJPU9DGN9LNXATIBrks7lyU2X6yvikLiIXXVWw15hN/SAn1jJ5HOR5KYpka9dSngmXwGHjYZ
-LBddzUmMb8c+v3s3uK8JXlFiLPGl6CipotCsXb8b4at7UjdwVVcdDFDv5dsnlzUvWe8p0MEJfs57
-x64IX1HKCdjZ+Dt7LvZQQIwJmDVu9h39Lm+ImkFRm7fixav0YicKCdMoAt7qYGAZyKP6l5x7u1vA
-prGsp9SbHsGUA3c/5/f3YsYemAncooCDCHUsC3XOWzb3A/UPnVdXnCXyyQ+aj8/gvTcDRMKuS7A0
-tOBDqVB9xCwXHHIycnfyoyB7j5H7ghuviRKSrh1J2+IeVfZ+lEBMTFwq1xDA7jcsh1EGilZ/mbkc
-pnbUvUnQL6EhooinLBZ66+olQ1TumvzsXPFH8TgMhjqVhTXj2XdfyowbnStFAW==
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: wp_editor
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_wp_editor' ) ) {
+  class HCF_Field_wp_editor extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args = wp_parse_args( $this->field, array(
+        'tinymce'       => true,
+        'quicktags'     => true,
+        'media_buttons' => true,
+        'wpautop'       => false,
+        'height'        => '',
+      ) );
+
+      $attributes = array(
+        'rows'         => 10,
+        'class'        => 'wp-editor-area',
+        'autocomplete' => 'off',
+      );
+
+      $editor_height = ( ! empty( $args['height'] ) ) ? ' style="height:'. esc_attr( $args['height'] ) .';"' : '';
+
+      $editor_settings  = array(
+        'tinymce'       => $args['tinymce'],
+        'quicktags'     => $args['quicktags'],
+        'media_buttons' => $args['media_buttons'],
+        'wpautop'       => $args['wpautop'],
+      );
+
+      echo $this->field_before();
+
+      echo ( hcf_wp_editor_api() ) ? '<div class="hcf-wp-editor" data-editor-settings="'. esc_attr( json_encode( $editor_settings ) ) .'">' : '';
+
+      echo '<textarea name="'. esc_attr( $this->field_name() ) .'"'. $this->field_attributes( $attributes ) . $editor_height .'>'. $this->value .'</textarea>';
+
+      echo ( hcf_wp_editor_api() ) ? '</div>' : '';
+
+      echo $this->field_after();
+
+    }
+
+    public function enqueue() {
+
+      if ( hcf_wp_editor_api() && function_exists( 'wp_enqueue_editor' ) ) {
+
+        wp_enqueue_editor();
+
+        $this->setup_wp_editor_settings();
+
+        add_action( 'print_default_editor_scripts', array( $this, 'setup_wp_editor_media_buttons' ) );
+
+      }
+
+    }
+
+    // Setup wp editor media buttons
+    public function setup_wp_editor_media_buttons() {
+
+      if ( ! function_exists( 'media_buttons' ) ) {
+        return;
+      }
+
+      ob_start();
+        echo '<div class="wp-media-buttons">';
+          do_action( 'media_buttons' );
+        echo '</div>';
+      $media_buttons = ob_get_clean();
+
+      echo '<script type="text/javascript">';
+      echo 'var hcf_media_buttons = '. json_encode( $media_buttons ) .';';
+      echo '</script>';
+
+    }
+
+    // Setup wp editor settings
+    public function setup_wp_editor_settings() {
+
+      if ( hcf_wp_editor_api() && class_exists( '_WP_Editors') ) {
+
+        $defaults = apply_filters( 'hcf_wp_editor', array(
+          'tinymce' => array(
+            'wp_skip_init' => true
+          ),
+        ) );
+
+        $setup = _WP_Editors::parse_settings( 'hcf_wp_editor', $defaults );
+
+        _WP_Editors::editor_settings( 'hcf_wp_editor', $setup );
+
+      }
+
+    }
+
+  }
+}

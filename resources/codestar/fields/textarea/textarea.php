@@ -1,53 +1,48 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: textarea
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_textarea' ) ) {
+  class HCF_Field_textarea extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      echo $this->field_before();
+      echo $this->shortcoder();
+      echo '<textarea name="'. esc_attr( $this->field_name() ) .'"'. $this->field_attributes() .'>'. $this->value .'</textarea>';
+      echo $this->field_after();
+
+    }
+
+    public function shortcoder() {
+
+      if ( ! empty( $this->field['shortcoder'] ) ) {
+
+        $instances = ( is_array( $this->field['shortcoder'] ) ) ? $this->field['shortcoder'] : array_filter( (array) $this->field['shortcoder'] );
+
+        foreach ( $instances as $instance_key ) {
+
+          if ( isset( HCF::$shortcode_instances[$instance_key] ) ) {
+
+            $button_title = HCF::$shortcode_instances[$instance_key]['button_title'];
+
+            echo '<a href="#" class="button button-primary hcf-shortcode-button" data-modal-id="'. esc_attr( $instance_key ) .'">'. $button_title .'</a>';
+
+          }
+
+        }
+
+      }
+
+    }
+  }
+}

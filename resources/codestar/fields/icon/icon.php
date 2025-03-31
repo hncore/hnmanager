@@ -1,73 +1,71 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-NIceM22/OW==
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: icon
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_icon' ) ) {
+  class HCF_Field_icon extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args = wp_parse_args( $this->field, array(
+        'button_title' => esc_html__( 'Add Icon', 'hcf' ),
+        'remove_title' => esc_html__( 'Remove Icon', 'hcf' ),
+      ) );
+
+      echo $this->field_before();
+
+      $nonce  = wp_create_nonce( 'hcf_icon_nonce' );
+      $hidden = ( empty( $this->value ) ) ? ' hidden' : '';
+
+      echo '<div class="hcf-icon-select">';
+      echo '<span class="hcf-icon-preview'. esc_attr( $hidden ) .'"><i class="'. esc_attr( $this->value ) .'"></i></span>';
+      echo '<a href="#" class="button button-primary hcf-icon-add" data-nonce="'. esc_attr( $nonce ) .'">'. $args['button_title'] .'</a>';
+      echo '<a href="#" class="button hcf-warning-primary hcf-icon-remove'. esc_attr( $hidden ) .'">'. $args['remove_title'] .'</a>';
+      echo '<input type="hidden" name="'. esc_attr( $this->field_name() ) .'" value="'. esc_attr( $this->value ) .'" class="hcf-icon-value"'. $this->field_attributes() .' />';
+      echo '</div>';
+
+      echo $this->field_after();
+
+    }
+
+    public function enqueue() {
+      add_action( 'admin_footer', array( 'HCF_Field_icon', 'add_footer_modal_icon' ) );
+      add_action( 'customize_controls_print_footer_scripts', array( 'HCF_Field_icon', 'add_footer_modal_icon' ) );
+    }
+
+    public static function add_footer_modal_icon() {
+    ?>
+      <div id="hcf-modal-icon" class="hcf-modal hcf-modal-icon hidden">
+        <div class="hcf-modal-table">
+          <div class="hcf-modal-table-cell">
+            <div class="hcf-modal-overlay"></div>
+            <div class="hcf-modal-inner">
+              <div class="hcf-modal-title">
+                <?php esc_html_e( 'Add Icon', 'hcf' ); ?>
+                <div class="hcf-modal-close hcf-icon-close"></div>
+              </div>
+              <div class="hcf-modal-header">
+                <input type="text" placeholder="<?php esc_html_e( 'Search...', 'hcf' ); ?>" class="hcf-icon-search" />
+              </div>
+              <div class="hcf-modal-content">
+                <div class="hcf-modal-loading"><div class="hcf-loading"></div></div>
+                <div class="hcf-modal-load"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    <?php
+    }
+
+  }
+}

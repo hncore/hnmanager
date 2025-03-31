@@ -1,72 +1,67 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: button_set
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_button_set' ) ) {
+  class HCF_Field_button_set extends HCF_Fields {
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $args = wp_parse_args( $this->field, array(
+        'multiple'   => false,
+        'options'    => array(),
+        'query_args' => array(),
+      ) );
+
+      $value = ( is_array( $this->value ) ) ? $this->value : array_filter( (array) $this->value );
+
+      echo $this->field_before();
+
+      if ( isset( $this->field['options'] ) ) {
+
+        $options = $this->field['options'];
+        $options = ( is_array( $options ) ) ? $options : array_filter( $this->field_data( $options, false, $args['query_args'] ) );
+
+        if ( is_array( $options ) && ! empty( $options ) ) {
+
+          echo '<div class="hcf-siblings hcf--button-group" data-multiple="'. esc_attr( $args['multiple'] ) .'">';
+
+          foreach ( $options as $key => $option ) {
+
+            $type    = ( $args['multiple'] ) ? 'checkbox' : 'radio';
+            $extra   = ( $args['multiple'] ) ? '[]' : '';
+            $active  = ( in_array( $key, $value ) || ( empty( $value ) && empty( $key ) )  ) ? ' hcf--active' : '';
+            $checked = ( in_array( $key, $value ) || ( empty( $value ) && empty( $key ) ) ) ? ' checked' : '';
+
+            echo '<div class="hcf--sibling hcf--button'. esc_attr( $active ) .'">';
+            echo '<input type="'. esc_attr( $type ) .'" name="'. esc_attr( $this->field_name( $extra ) ) .'" value="'. esc_attr( $key ) .'"'. $this->field_attributes() . esc_attr( $checked ) .'/>';
+            echo $option;
+            echo '</div>';
+
+          }
+
+          echo '</div>';
+
+        } else {
+
+          echo ( ! empty( $this->field['empty_message'] ) ) ? esc_attr( $this->field['empty_message'] ) : esc_html__( 'No data available.', 'hcf' );
+
+        }
+
+      }
+
+      echo $this->field_after();
+
+    }
+
+  }
+}

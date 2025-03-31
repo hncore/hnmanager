@@ -1,43 +1,28 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-HR+cPx3/qAX+H0SHSH6BFLq0H9AgPAscwEAXOgkuQjxApir7sMN+/JCtjASfsK05f5X8Y+R/EIjU
-Xjnohddu26uHaqT/iYLyqZVZj7Jrn54i4x3O11Tt5t0XjOtAN00/45aMzH0gN4qfilWbplB943/Q
-0TzgQkgm4k7AkIhQhBBI0SwTbytfPz7w0+r6Pm2SgZszwn4rJOTn6z6lhK0WQQNXBfZfwTBe3jTV
-aR2COBtAZ32moN9Lagri6ThErWkIIU3q5yAjU7zZBrjmce1AhrJZYXJIn2DiRm5pYbbsW/btNJXE
-DSew/zWrBphLS+7R4TQ2br+LAK9UcQjauzOjrXTuE+cmZBo4oixVTyQCIycmnID15amrrC9vkhVe
-I5CJu/+CxNJTVptSWB62EVbbNcu17MlRDnB8uM7KIZPdhQmfTEo6yQj3s1sBXFKlapfW+oHSJWOD
-f4PYFqftCSkYj2xbvxw0yzR5dkG7HcFWLR62i7Z8Cce+yCBWkp45CpVdf+w/+ahN2CQCqe39+DIP
-JZW1g+ixxfWZzaQfuZUQxov1KB7nj/DlOSfNFTc3BfTawtO9Pu0aOGOp11NoH54B1ecydSxsIk6P
-AfKOe+Wh+Ip36OQyJZH3AbHErov2UIb9Z8c3ZYlerNYgid4n5sgwtFVXq6pGb8v2q8zlYfkN1oIM
-Lpb+RFsVgrntPpUmf2PAyd2SwNV/5KS4uhu0nmTTBlRB/7zANiZ4CxnYY+lqhfJ8utgwZFUAYeVn
-HpUPdHGXhYTdpYwyu86dqQaGtUFMswJPOVeWbjs4zmWfYoi4cJd5s+Pumzle1mZI9Gd4Vh9BSgtt
-8eepjYf4GkCb5qEArg/7YJusMmvCP08VYrSkMCc1oy2OFZ5KbJQFLSYFMrbtFtPvruSfVlvfuba4
-jChwd1rfKLsfwfBS6UutVOQsD9ldsI7W5848hkVi7FgSIxcXfK/GLfow87ym2l/uwii9jdBgi5bh
-piUvl/QrDdcNCsFgFabVEIYdEGx5befYfm+5Iy1pcM1KL8B9SzIq6T1yd8oNZask2qVc7z6zEJqp
-+MyU5T0kxtdhyxT80nmo6masTuDeILijSdBsMAhy6FTY09UTt9JozhIR+ngNonK9zGYBPwQOKdrV
-0wowwQvUFm13g6GfHeIjbkH/HozKYahpTe5MAyAcER7Usfp7Qzrr2HP+drdhBKjul+deR2e0zHs9
-MZQnd7aRdgigWzhgrk+98IhHC9OkJ+2lfXF2AlQzCSBpdv9xFREmSRC6vR35yOVkJu7IeUXZSO+A
-ZmBWFf5UccHBSbSCuSrTK4eFtqBd0o25SRl5wkWmc+IQES9tXSyP8EmG/oSR2xUL9vBrNKZ1UWa8
-+IPcscexYsjtxkefmJvgFHW5HZhpAZwUeJOOECfjGOjatwHOQZ2ml6diKKXm3z6GZtlrYONluopJ
-/GxPnA79t9S2cx1qZjBpd4bdgaz8STuuVwxg7igEFLg2D5hOWW/dpQgpXczvsrpl1/WtMVUrwE7P
-cS+fcpkm0Wq67zbrKYNlD9tA3AXeZV5/kfiZKCNnRLkFQYPM4XSO6ga1Mt9GpsoRat81bho1pykS
-tlJ2lFkQLPu0AyxSfwG6IWjv4tCJ6iTyLQ/pDdGU41vAJeY2281M4j7d1IPg8gs+7JryrYDfG9lS
-adZNPNZOO7f9fbo062p/MgKdrNmYzofEYMnC9nJm+s3eizEYNpcgsEYa02dAmLWui6yIUgSVsTVJ
-H352ZDO35qNlJDva2zNjaRBaFxObuz6XUP8f/p6cnYDgPYxLYKpD/MupP+vCQoaSJ+hU1HOuT1BB
-SK7fXed12Oa5CfmPzBK8WF89ZqB9p9bgIqOKmZjUACXiUVA+5KIlDKXJ99040+0DXYlOoXtzRLL/
-T9c/KjL7Bu90KqUkfqRacqWJY9i7PlIpuC02GZ7kXnjkaHwhx0+PUcDao9Eoy2dDg/Kj/XzWxG0E
-MI/X4PQZ8UI1zY9gP1asY/JcPihiDN5fNXnXVgce/42DRccgdybKRWAT5xeKqYEHSWmr3vgOfOCD
-5U3yhGICbZfNrTnb54JSjJvmdzbT7ehPLXz3pLi0xsYMDayw85afHEtMiNO+JBXQXHQDbaqPKPH9
-dAyxsgwEXmtMOaul1wezel3JizG1qusLLJ94UMG/iMJjp254j7+ySDW20iOj5HVKB6BAo5GbpFBO
-C369EYYImarFT4fuvhAef1zIHAfEO6JRWcqU3G2n84WmTfq/l44T/H4GVqTC683u4+ILGTe+uXtM
-gOQN1WyfmfnsiSGdlq7qB0uSy4etRrErvZhsb9vk1hJrfiR3DK18OhdsEdaH3QsFmtCQZRw4Rm54
-UdcfjSvqIduU1wxLokZ+I32bsjCRn5CIalbsaTBPmZzprXJf930FwESKOjYHy0FJbnyr3HOKetG5
-G7WuXFulsBKkukDPKBGD3GGawW43RH2yQHb/rL4RkgtmTzS3iMxxPo5A6DWzLiNt8+/UnABR7eXb
-NVrq0bSNMo8o1Sr9iWilQ4nLrCQ8HeyEPQlhOT5uBMwml/h27yns0pM6T1+0bWf7XcetZzNmiK7i
-7qy25fXgFQCmMq+UP2GAk+UEQrWRafuzjkY1dFP4J9v2uz+dLqsM5r7ss3BwUp6R5tWw1GkoGhDh
-GOQeLW4YEykybJye08sv2V7zRVMD1RMgPeAzx/0N/flzHgKKmbAVohXJ7sv0urSP1PPL95n5NikJ
-JkK/WiG98aJRrVp9wCrRItqtiDjr1k//bjpHKdRBclVZlSfco9HdtPqfvBWxIwmNQx3eqAVp4C+y
-kPYVerrcDab/d4u7AsjzeaMFgUxnFacc8Ox2wjhv6yPZ5SF2+YYLr1/rMMQZ1j06ouKGEtSGjAMp
-NhiiIW==
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Custom Walker for Nav Menu Edit
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Walker_Nav_Menu_Edit' ) && class_exists( 'Walker_Nav_Menu_Edit' ) ) {
+  class HCF_Walker_Nav_Menu_Edit extends Walker_Nav_Menu_Edit {
+
+    public function start_el( &$output, $item, $depth = 0, $args = array(), $id = 0 ) {
+
+      $html = '';
+
+      parent::start_el( $html, $item, $depth, $args, $id );
+
+      ob_start();
+      do_action( 'wp_nav_menu_item_custom_fields', $item->ID, $item, $depth, $args );
+      $custom_fields = ob_get_clean();
+
+      $output .= preg_replace( '/(?=<(fieldset|p)[^>]+class="[^"]*field-move)/', $custom_fields, $html );
+
+    }
+
+  }
+}

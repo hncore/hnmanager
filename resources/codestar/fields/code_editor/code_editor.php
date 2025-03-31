@@ -1,74 +1,58 @@
-<?php //002e0
-// Coder By HNCore
-if(extension_loaded('ionCube Loader')){die('The file '.__FILE__." is corrupted.\n");}echo("\nScript error: the ".(($cli=(php_sapi_name()=='cli')) ?'ionCube':'<a href="https://www.ioncube.com">ionCube</a>')." Loader for PHP needs to be installed.\n\nThe ionCube Loader is the industry standard PHP extension for running protected PHP code,\nand can usually be added easily to a PHP installation.\n\nFor Loaders please visit".($cli?":\n\nhttps://get-loader.ioncube.com\n\nFor":' <a href="https://get-loader.ioncube.com">get-loader.ioncube.com</a> and for')." an instructional video please see".($cli?":\n\nhttp://ioncu.be/LV\n\n":' <a href="http://ioncu.be/LV">http://ioncu.be/LV</a> ')."\n\n");exit(199);
-?>
-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
-rGSthGW5TCWRqYx8TmXNOd5GzSkf/uKaBt4=
+<?php if ( ! defined( 'ABSPATH' ) ) { die; } // Cannot access directly.
+/**
+ *
+ * Field: code_editor
+ *
+ * @since 1.0.0
+ * @version 1.0.0
+ *
+ */
+if ( ! class_exists( 'HCF_Field_code_editor' ) ) {
+  class HCF_Field_code_editor extends HCF_Fields {
+
+    public $version = '5.65.2';
+    public $cdn_url = 'https://cdn.jsdelivr.net/npm/codemirror@';
+
+    public function __construct( $field, $value = '', $unique = '', $where = '', $parent = '' ) {
+      parent::__construct( $field, $value, $unique, $where, $parent );
+    }
+
+    public function render() {
+
+      $default_settings = array(
+        'tabSize'       => 2,
+        'lineNumbers'   => true,
+        'theme'         => 'default',
+        'mode'          => 'htmlmixed',
+        'cdnURL'        => $this->cdn_url . $this->version,
+      );
+
+      $settings = ( ! empty( $this->field['settings'] ) ) ? $this->field['settings'] : array();
+      $settings = wp_parse_args( $settings, $default_settings );
+
+      echo $this->field_before();
+      echo '<textarea name="'. esc_attr( $this->field_name() ) .'"'. $this->field_attributes() .' data-editor="'. esc_attr( json_encode( $settings ) ) .'">'. $this->value .'</textarea>';
+      echo $this->field_after();
+
+    }
+
+    public function enqueue() {
+
+      $page = ( ! empty( $_GET[ 'page' ] ) ) ? sanitize_text_field( wp_unslash( $_GET[ 'page' ] ) ) : '';
+
+      // Do not loads CodeMirror in revslider page.
+      if ( in_array( $page, array( 'revslider' ) ) ) { return; }
+
+      if ( ! wp_script_is( 'hcf-codemirror' ) ) {
+        wp_enqueue_script( 'hcf-codemirror', esc_url( $this->cdn_url . $this->version .'/lib/codemirror.min.js' ), array( 'hcf' ), $this->version, true );
+        wp_enqueue_script( 'hcf-codemirror-loadmode', esc_url( $this->cdn_url . $this->version .'/addon/mode/loadmode.min.js' ), array( 'hcf-codemirror' ), $this->version, true );
+      }
+
+      if ( ! wp_style_is( 'hcf-codemirror' ) ) {
+        wp_enqueue_style( 'hcf-codemirror', esc_url( $this->cdn_url . $this->version .'/lib/codemirror.min.css' ), array(), $this->version );
+      }
+
+    }
+
+  }
+}
