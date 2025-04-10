@@ -22,21 +22,18 @@ if ( ! class_exists( 'HCF_Field_tabbed' ) ) {
 
       echo '<div class="hcf-tabbed-nav" data-depend-id="'. esc_attr( $this->field['id'] ) .'">';
       foreach ( $this->field['tabs'] as $key => $tab ) {
-
-        $tabbed_icon   = ( ! empty( $tab['icon'] ) ) ? '<i class="hcf--icon '. esc_attr( $tab['icon'] ) .'"></i>' : '';
-        $tabbed_active = ( empty( $key ) ) ? 'hcf-tabbed-active' : '';
-
-        echo '<a href="#" class="'. esc_attr( $tabbed_active ) .'"">'. $tabbed_icon . esc_attr( $tab['title'] ) .'</a>';
-
+        $tabbed_icon   = (!empty( $tab['icon'] ) ) ? '<i class="hcf--icon '. esc_attr( $tab['icon'] ) .'"></i>' : '';
+        $tabbed_active = (empty( $key ) ) ? 'hcf-tabbed-active' : '';
+        $tab_class     = isset($tab['class']) ? ' ' . $tab['class'] : '';
+        echo '<a href="#" class="'. esc_attr( $tabbed_active . $tab_class ) .'">'. $tabbed_icon . esc_attr( $tab['title'] ) .'</a>';
       }
       echo '</div>';
 
       echo '<div class="hcf-tabbed-contents">';
       foreach ( $this->field['tabs'] as $key => $tab ) {
-
-        $tabbed_hidden = ( ! empty( $key ) ) ? ' hidden' : '';
-
-        echo '<div class="hcf-tabbed-content'. esc_attr( $tabbed_hidden ) .'">';
+        $tabbed_hidden  = (!empty( $key ) ) ? ' hidden' : '';
+        $tab_class      = isset($tab['class']) ? ' ' . $tab['class'] : '';
+        echo '<div class="hcf-tabbed-content'. esc_attr( $tabbed_hidden . $tab_class ) .'">';
 
         foreach ( $tab['fields'] as $field ) {
 

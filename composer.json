@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "HAUN\\": "src/"
+            "HNCR\\": "src/"
         },
 		"files": [
             "src/Options/AutoLoad.php"
@@ -22,7 +22,7 @@
     "extra": {
         "acorn": {
             "providers": [
-                "HAUN\\HNManager"
+                "HNCR\\HNManager"
             ]
         }
     },

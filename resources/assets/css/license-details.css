@@ -72,31 +72,7 @@
 }
 
 .haun-license-details .license-details-box .license-details li span {}
-.update-license-btn, .activate-license-btn {
-    border-radius: 20px;
-    text-align: center;
-    border: none;
-    background-size: 300% 100%;
-    moz-transition: all .4s ease-in-out;
-    -o-transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
-    transition: all .4s ease-in-out;
-    cursor: pointer;
-    padding: 5px 15px;
-    color: #fff;
-    background-image: -webkit-linear-gradient(left, #25aae1, #024fd6, #04befe, #3f86ed);
-    background-image: -o-linear-gradient(left, #25aae1, #024fd6, #04befe, #3f86ed);
-    background-image: linear-gradient(to right, #25aae1, #024fd6, #04befe, #3f86ed);
-    box-shadow: 1px 2px 7px 0 rgba(65, 132, 234, 0.75);
-    margin-right: 15px;
-}
-.update-license-btn:hover, .activate-license-btn:hover {
-    background-position: 100% 0;
-    moz-transition: all .4s ease-in-out;
-    -o-transition: all .4s ease-in-out;
-    -webkit-transition: all .4s ease-in-out;
-    transition: all .4s ease-in-out;
-}
+
 .haun-license-details .license-details-box .license-details li .activate-license-btn i {
     font-size: 17px;
 }
@@ -150,14 +126,13 @@
     color: #fff;
     font-weight: bold;
 }
+
 .license-btn.btn-warning {
     background-image: -webkit-linear-gradient(left, #ffbb00, #e43603, #ff6290, #ff5000);
     background-image: -o-linear-gradient(left, #ffbb00, #e43603, #ff6290, #ff5000);
     background-image: linear-gradient(to right, #ffbb00, #e43603, #ff6290, #ff5000);
     box-shadow: 0 4px 15px 0 rgba(229, 66, 10, 0.75);
 }
-
-
 
 .license-btn.btn-success {
     background-image: -webkit-linear-gradient(left, #009245, #d0c200, #00A8C5, #D9E021);
@@ -219,23 +194,24 @@
     color: #ff4242;
 }
 
-#deactivate-status, #activate-status {
+#hnthemes-status, .hnplugin-status {
     color: #ff0d0d;
     font-weight: 700;
     font-family: monospace;
-    display: none;
     margin-top: 20px;
 }
-#activate-license-box, #haun_deactivate_box {
+.activate-license-box{
     background: #fff;
     margin-top: 15px;
 }
-#activate-license-box p label {
+.activate-license-box p label {
     display: block;
     font-family: monospace;
+    margin: 5px 0 !important;
 }
 
-#activate-license-box p input {
+.activate-license-box p input {
     font-family: monospace;
     border: 1px solid #d2d2d2;
+    border-radius: 4px !important;
 }
