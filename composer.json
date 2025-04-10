@@ -1,33 +1,22 @@
 {
     "name": "hncore/hnmanager",
-    "type": "wordpress-package",
-    "description": "Manager",
-    "license": "MIT",
+    "description": "Composer package for the HCF Framework",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
     "version": "1.0.0",
     "authors": [
         {
-            "name": "HauN",
-            "email": "haunytb@gmail.com"
+            "name": "HNCore",
+            "email": "admin@haunytb.com",
+            "homepage": "https://haunytb.com",
+            "role": "Developer"
         }
     ],
     "autoload": {
-        "psr-4": {
-            "HNCR\\": "src/"
-        },
-		"files": [
-            "src/Options/AutoLoad.php"
+        "classmap": ["src/"],
+        "files": [
+            "src/functions/actives.php"
         ]
-
     },
-    "extra": {
-        "acorn": {
-            "providers": [
-                "HNCR\\HNManager"
-            ]
-        }
-    },
-    "config": {
-        "optimize-autoloader": false,
-        "classmap-authoritative": false
-    }
+    "require": {}
 }
