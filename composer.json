@@ -16,7 +16,8 @@
         "classmap": ["src/"],
         "files": [
             "src/functions/actives.php",
-            "src/classes/setup.class.php"
+            "src/classes/setup.class.php",
+            "src/functions/autoload.php"
         ]
     }
 }
