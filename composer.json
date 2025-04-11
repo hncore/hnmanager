@@ -1,7 +1,7 @@
 {
     "name": "hncore/hnmanager",
     "description": "Composer package for the HCF Framework",
-    "type": "library",
+    "type": "wordpress-package",
     "license": "GPL-3.0-or-later",
     "version": "1.0.0",
     "authors": [
@@ -15,8 +15,8 @@
     "autoload": {
         "classmap": ["src/"],
         "files": [
-            "src/functions/actives.php"
+            "src/functions/actives.php",
+            "src/hnmanger.php"
         ]
-    },
-    "require": {}
+    }
 }
