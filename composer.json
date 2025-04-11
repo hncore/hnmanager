@@ -16,7 +16,7 @@
         "classmap": ["src/"],
         "files": [
             "src/functions/actives.php",
-            "src/hnmanger.php"
+            "src/classes/setup.class.php"
         ]
     }
 }

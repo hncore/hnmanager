@@ -7,5 +7,5 @@ $baseDir = dirname($vendorDir);
 
 return array(
     '1815514e97efd9bd877e998068fa6d3c' => $baseDir . '/src/functions/actives.php',
-    'a14c92108ab61eb88b3fe77d0dbee02a' => $baseDir . '/src/hnmanger.php',
+    'ae4eced22f876d5fc9abafdc00a2b7d3' => $baseDir . '/src/classes/setup.class.php',
 );
