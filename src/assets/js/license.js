@@ -1,9 +1,9 @@
 var $ = jQuery.noConflict();
 $(document).ready(function() {
-    const PLUpdate      = '.hncore-update-license';
-    const PLActivate    = '.hncore-activate-license';
-    const PLDeactivate  = '.hncore-deactivate-license';
-    const PLMsg         = '.hncore-activate-status';
+    const PLUpdate      = '#themes-update-license';
+    const PLActivate    = '#themes-activate-license';
+    const PLDeactivate  = '#themes-deactivate-license';
+    const PLMsg         = '#themes-activate-status';
 
     $(PLUpdate).off('click').on('click', function(e) {
         e.preventDefault();
@@ -69,7 +69,7 @@ $(document).ready(function() {
                 if (response.success && response.license === 'valid') {
                     $(PLMsg).html(response.message || 'License activated successfully.').css({ display: 'block', color: 'green' });
                     setTimeout(function() {
-                        location.reload();
+                        location.reload(); // Reload lại trang sau khi kích hoạt thành công
                     }, 1000);
                 } else {
                     var errorMsg = response.message || 'Activation failed.';
